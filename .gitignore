@@ -1,0 +1,40 @@
+### Jekyll template
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+### JetBrains template
+.idea
+*.iml
+*.ipr
+*.iws
+
+### Linux template
+*~
+.Trash-*
+
+### Diff template
+*.patch
+*.diff
+
+### Vim template
+[._]*.s[a-v][a-z]
+!*.svg  # comment out if you don't need vector files
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+tags
+[._]*.un~
+
+### macOS template
+.DS_Store
+Icon
+._*
+
+### rdd13r stuff
+/Gemfile.lock
