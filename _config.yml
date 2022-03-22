@@ -7,6 +7,7 @@ description: >-
 logo: /assets/img/v.png
 show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
+baseurl: "https://rdd13r.github.io/rdd13r/"
 
 plugins:
   - jekyll-remote-theme
