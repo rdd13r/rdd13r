@@ -1,25 +1,13 @@
-title: 💙💛 🇺🇸 Vadim Kuhay - Principal Software Engineer
+title: 💙💛 🇺🇸 Vadim Kuhay
 email: 12781006+rdd13r@users.noreply.github.com
 description: >-
   <h3>Principal Software Engineer</h3>
 
   <p>❤️ <strong>Kotlin</strong> ❤️ <i>Scala</i> ❤️ <small>Java</small> ❤️</p>
 logo: /assets/img/v.png
-github_username:  rdd13r
 show_downloads: false
-repository: https://github.com/rdd13r/rdd13r
 remote_theme: pages-themes/minimal@v0.2.0
 
-asciidoc: {}
-asciidoctor:
-  base_dir: :docdir
-  safe: unsafe
-  attributes:
-    - idseparator=_
-    - source-highlighter=coderay
-    - icons=font
-
 plugins:
-  - jekyll-asciidoc
   - jekyll-remote-theme
   - jekyll-feed
