@@ -9,6 +9,8 @@ show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 repository: rdd13r/rdd13r
 author: Vadim Kuhay
+url: https://rdd13r.github.io/rdd13r
+baseurl: ""
 
 plugins:
   - jekyll-remote-theme
