@@ -7,6 +7,7 @@ description: >-
 logo: /assets/img/v.png
 github_username:  rdd13r
 show_downloads: false
+repository: https://github.com/rdd13r/rdd13r
 remote_theme: pages-themes/minimal@v0.2.0
 
 asciidoc: {}
