@@ -4,11 +4,8 @@ matrix:
   - name: markdown
     sources:
       - README.md
-    hunspell:
-      d: docs/src/dictionary/hunspell/en_US
     aspell:
       lang: en
-      d: en_US
     dictionary:
       wordlists:
         - .en.text
