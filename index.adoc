@@ -1,0 +1,235 @@
+= 💙💛 🇺🇸 Vadim Kuhay: Principal Software Engineer
+R!dd13r <12781006+rdd13r@users.noreply.github.com>
+v0.1.0, Mon Mar 21 13:51:18 EST 2022: deprecated draft.
+:description: ❤️ Kotlin ❤️  Scala ❤️ Java ❤️
+:icons: font
+:toc: preamble
+:toclevels: 1
+:toc-title: Scope of Professional Activities
+:keywords: resume
+:imagesdir: ./img
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+IMPORTANT: _**Recruiters**_ - _please don't trash my inbox_: I am only available for a corp-to-corp contract with reputable clients. link:mailto:contact@asei.systems[contact@asei.systems]
+
+*_Lead software engineering teams hands-on applying decades of experience to assure market disruption, innovation, and maximized revenue._*
+
+.The Law of Success
+[quote, Warren Buffett, www.forbes.com]
+____
+In the world of business, the people who are most successful are those who are doing what they love.
+____
+
+'''
+
+https://kotlinlang.org/lp/mobile/[Kotlin KMM^] |
+https://kotlinlang.org/lp/server-side/[Kotlin Server-side^] |
+https://ktor.io/docs/welcome.html[Ktor^] |
+https://www.http4k.org/[http4k^] |
+https://spring.getdocs.org/en-US/spring-framework-docs/docs/languages/kotlin/kotlin.html[Kotlin Spring Boot] |
+https://github.com/ExpediaGroup/graphql-kotlin[Expedia Group GraphQL Kotlin^] |
+https://kotlinlang.org/lp/mobile/[Kotlin KMM^] |
+https://kotlinlang.org/docs/data-science-overview.html[Kotlin Data Science^] |
+https://dotty.epfl.ch/[Scala^] |
+https://www.scalatest.org/[>ScalaTest™^] |
+https://www.scalatest.org/release_notes/3.2.11[>Scalactic™^] |
+https://akka.io/[Lightbend Akka^] |
+https://kubernetes.io/[Kubernetes^] |
+https://github.com/testcontainers[Testcontainers^]
+
+== 2017 - Present: Advanced Software Enterprises, Inc., (ASE) Cary, NC
+
+_Pair-programming with the best: applying 30+ years of hard-earned hands-on American wisdom and experience to enable teams of contributors making profitable business through competent software._
+
+=== Principal Solutions Architect | Legendary American Customers
+
+Lead Digital Transformation hands-on for several iconic American companies: _Blue Cross and Blue Shield of North Carolina, Mutual of Omaha Insurance, Genworth Financial, Fidelity Investments, Credit Suisse_.
+
+https://kotlinlang.org/[Kotlin 1.6.10^] |
+https://kotlinlang.org/lp/server-side/[Kotlin Server-side^] |
+https://ktor.io/docs/welcome.html[Ktor^] |
+https://spring.getdocs.org/en-US/spring-framework-docs/docs/languages/kotlin/kotlin.html[Kotlin Spring Boot] |
+https://quarkus.io/guides/kotlin[Quarkus^] |
+https://www.jmix.io/kotlin/[CUBA/Jmix^] |
+https://kotlinlang.org/docs/js-overview.html[Kotlin Web Frontend^] |
+https://dotty.epfl.ch/[Scala^] |
+https://www.scalatest.org/[>ScalaTest™^] |
+https://www.scalatest.org/release_notes/3.2.11[>Scalactic™^] |
+https://cucumber.io/docs/installation/scala/[Cucumber-Scala^] |
+https://github.com/cucumber[Cucumber^] |
+https://github.com/spockframework/spock[Spock^] |
+https://github.com/SeleniumHQ/selenium[Selenium^] |
+https://github.com/testcontainers[Testcontainers^] |
+https://akka.io/[**Lightbend Akka**^] |
+_Java_ |
+_Groovy_ |
+https://kubernetes.io/[Kubernetes^] |
+https://www.docker.com/[Docker^] |
+https://distrowatch.com/[Linux^] |
+JS | TS | Vue.js | Node.js | Angular | React | React Native |
+AWS | GCP | https://cloud.redhat.com/learn/what-is-openshift[Red Hat OpenShift^](Partner) |
+BASH | https://ohmyz.sh/[ZSH^] |
+**SOLID** | https://dddeurope.academy/alberto-brandolini/[DDD + BDD + TDD + CICD ++(Event Storming)] |
+_Spring Boot_ |
+_Spring WebFlux_ |
+_Spring Data_ |
+_Spring Cloud Security_ |
+_Spring Cloud Stream_ |
+_Okta_ |
+https://www.confluent.io/product/confluent-platform/[Confluent Kafka] |
+OpenAPI / Swagger |
+Spring REST Docs |
+HashiCorp |
+Gradle |
+HATEOAS |
+**Microservices** |
+_JHipster_
+
+=== Principal Software Engineer | Product Development
+
+Develop innovative products on rapid investment strategy for some of the most prestigious customers.
+
+https://kotlinlang.org/[Kotlin^] |
+https://kotlinlang.org/lp/server-side/[Kotlin Server-side^] |
+https://ktor.io/docs/welcome.html[Ktor^] |
+https://www.http4k.org/[http4k^] |
+https://vertx.io/docs/vertx-core/kotlin/[Eclipse Vert.x™^] |
+https://micronaut-projects.github.io/micronaut-kotlin/latest/guide/[Micronaut^] |
+https://quarkus.io/guides/kotlin[Quarkus^] |
+https://github.com/graalvm/graalvm-demos[GraalVM^] |
+https://www.jmix.io/kotlin/[CUBA/Jmix^] |
+https://kotlinlang.org/docs/js-overview.html[Kotlin Web Frontend^] |
+https://kotlinlang.org/lp/mobile/[Kotlin KMM^] |
+https://kotlinlang.org/docs/native-overview.html[Kotlin Native^] |
+https://kotlinlang.org/docs/data-science-overview.html[Kotlin Data Science^] |
+https://github.com/JetBrains/KotlinDL[KotlinDL^] |
+https://github.com/thomasnield/kotlin-statistics[Kotlin Statistics^] |
+https://github.com/holgerbrandl/krangl[krangl^] |
+https://github.com/kyonifer/koma[Koma^] |
+https://github.com/mipt-npm/kmath[KMath^] |
+https://github.com/JetBrains/lets-plot[Lets-Plot^] |
+https://github.com/holgerbrandl/kravis[kravis^] |
+https://github.com/KotlinNLP[KotlinNLP^] |
+https://zeppelin.apache.org/[Apache Zeppelin^] |
+https://jupyter.org/[Jupiter Notebook^] |
+https://kotlinlang.org/docs/android-overview.html[Android^] |
+_Java 17_ |
+https://kubernetes.io/[Kubernetes^] |
+https://distrowatch.com/[Linux^] |
+GCP |
+https://kafka.apache.org/[Apache Kafka] |
+Gradle |
+**Microservices** |
+https://github.com/testcontainers[Testcontainers^] |
+myriad of experimental technologies
+
+=== Co-founder | Disruptive Innovation | Startup Bootstrapping and Seeding
+
+_Apply broad range of earned skills to coach disruptive startups form capable teams and deliver on investors' expectations._
+
+* Hands-on lead formation of multidisciplinary domain teams and departments. Use Alpha-Detachment strategy to graduate dream-team within a 3-months window.
+* Utilize the global scene to form and graduate over a dozen market-disruptive teams.
+* Invision, design and implement next generation mobile-only crypto-platform from a small 8-digit $US trickle investment
+* Maintain proprietary extreme-performance distributed data engine (DAG) inherited from _ImperiSoft Solutions, Inc._
+
+https://kotlinlang.org/[Kotlin^] |
+https://ktor.io/docs/welcome.html[Ktor^] |
+https://kotlinlang.org/docs/js-overview.html[Kotlin Web Frontend^] |
+https://kotlinlang.org/lp/mobile/[Kotlin KMM^] |
+https://zeppelin.apache.org/[Apache Zeppelin^] |
+https://jupyter.org/[Jupiter Notebook^] |
+https://github.com/apache/spark[Apache Spark^] |
+https://kotlinlang.org/docs/android-overview.html[Android^] |
+https://kubernetes.io/[Kubernetes^] |
+https://distrowatch.com/[Linux^] |
+Gradle | Python |
+https://github.com/tensorflow/tensorflow[TensorFlow^] |
+https://github.com/keras-team/keras[Keras^] |
+https://github.com/pandas-dev/pandas[Pandas^] |
+https://github.com/pytorch[PyTorch^] |
+https://github.com/scikit-learn/scikit-learn[scikit-learn^] |
+https://github.com/numpy/numpy[NumPy^] |
+https://github.com/testcontainers[Testcontainers^]
+
+== 2012 - 2017: Deutsche Bank Global Technology, (DB) Cary, NC
+
+- Disrupted risk market developing **dbECM Platform** to place the investment bank _decade ahead of competition_
+- Implemented institution-wide SDLC Magic: _Everything-in-code_
+- _Recognized the highest accolades and awards for end-to-end automation_
+
+Maven | Gradle | **Microservices** | _Java_ | Groovy | Python |
+https://github.com/scala/scala[Scala^] |
+https://www.scalatest.org/[>ScalaTest™^] |
+**SOLID** | https://dddeurope.academy/alberto-brandolini/[DDD + BDD + TDD + CICD ++(Event Storming)] |
+_Spring Boot_ |
+_Spring Data REST_ |
+https://github.com/cucumber[Cucumber^] |
+https://github.com/SeleniumHQ/selenium[Selenium^] |
+https://github.com/apache/hadoop[Apache Hadoop^] |
+https://kubernetes.io/[Kubernetes^] |
+https://distrowatch.com/[Linux^] |
+https://www.opentext.com/products-and-solutions/products/enterprise-content-management/documentum-platform[EMC Documentum^] |
+https://www.ibm.com/docs/en/filenet-p8-platform[IBM FileNet P8] |
+_IBM urbanCode_
+
+
+== 2011 - 2012: Xybion Corporation, Philadelphia, PA
+
+- Designed and implemented distributed content federation platform
+- Established a modern software company values, policies, and infrastructure
+- Attempted to motivate, modernise, and educate an all-Indian subsidiary
+
+_Dozens of **Content Management Frameworks**_ | jBPM | Drools | JBoss |
+Atlassian Suite | Jenkins | Puppet | Chef | Ansible | BASH | KSH |
+OSGi | Java | Scala | Groovy | Python | Ruby |
+Spring Framework 3 | Spring Data JPA | Cucumber | Gradle | VMware ESX
+
+== 2006 - 2011: Glemser Technologies, Bethlehem, PA
+
+- Together with world-class software engineering colleagues designed and implemented content management platforms
+
+**EMC Documentum** | JBoss | CICD | Jenkins |
+OSGi | Java | Scala | Groovy | Python | Perl | GNU C++ | STL | Linux |
+Spring Framework | Spring Data JPA | Struts | Maven | Gradle | VMware ESX
+
+== 2000 - 2005: MassivelyParallel, (MPC) Ft. Bragg, NC
+
+- Together with world-class software engineering colleagues designed and implemented distributed information systems
+
+Asm | C / C++ | STL | Obj.C | NeXTSTEP | Lisp | Prolog | COBOL | MPI | OSGi | QNX | SUN UNIX | SGI Origin AIX | BSD | Linux | Beowulf Cluster
+
+== 1997 - 2000: US Army, (20th EN BDE) Ft. Bragg, NC
+
+- Defended democracy as an Airborne Combat Engineer, Regular Army
+
+== 1992 - 1997: Software Engineer, Professional, Allentown, PA
+
+NOTE: _Undocumented Immigrant_
+
+- Implement UNIX daemons for mainframe business processes
+- Implement devices drivers, bridges, relays, message channels
+- Implement systems and platforms test software, including penetration
+- 1992 - implement first commercial software, messaging channel for PDCD
+- (1997 - political asylum / adjustment of status / legalization)
+
+SH | Asm | C / C++ | STL? | Pascal | TurboPascal | AT&T UNIX | X11 | IBM 370 family
+
+== 1989 - 1992: Amateur Programmer, Allentown PA
+
+NOTE: _Undocumented Immigrant_
+
+- Recognized minor revenue writing code for collegiate programming competitions
+- Recognized living revenue writing code for collegiate term assignments
+
+SH | Asm | C / C++ | Basic | Pascal | AmigaOS | AT&T UNIX
+
+== 1986 - 1989: Soviet Programming Competitions, Ukraine, USSR
+
+BASIC | ATARI | AT&T UNIX | SH | GNU C / C++

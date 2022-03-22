@@ -1,0 +1,13 @@
+email: 12781006+rdd13r@users.noreply.github.com
+description: >-
+  <h3>Principal Software Engineer</h3>
+
+  <p>❤️ <strong>Kotlin</strong> ❤️ <i>Scala</i> ❤️ <small>Java</small> ❤️</p>
+logo: /assets/img/v.png
+github_username:  rdd13r
+show_downloads: false
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-asciidoc
+  - jekyll-remote-theme
+  - jekyll-feed
