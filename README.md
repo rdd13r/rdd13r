@@ -1,8 +1,14 @@
 #  👋  Hey there!
 
+People call me R!dd13r,
+and _I am grateful <br/>to have coached some of the smartest<br/> software engineer teams on the planet!_<br/>
+<small>(:wink: in 5 languages)</small>
+
+> See my short [resume synopsis](https://rdd13r.github.io/rdd13r/)....
+
 [:arrow_right:&nbsp;&nbsp;&nbsp;💙💛&nbsp;&nbsp;&nbsp;:arrow_left:](https://razomforukraine.org/)
 
-I’m an **American** :us: software engineer, US Army :military_helmet: veteran, first generation immigrant (since before the Berlin wall fell), born and raised in the Soviet Ukraine. My spouse and I run a boutique software engineering business and raise our family in the adorable North Carolina. 
+I’m an **American** :us: software engineer, US Army :military_helmet: veteran, first generation immigrant (since before the Berlin wall fell), born and raised in the Soviet Ukraine. My spouse and I run a boutique software engineering business and raise our family in the adorable North Carolina. Our differentiator is competence, however unpopular that may be today.
 
 [:arrow_right:&nbsp;&nbsp;&nbsp;💙💛&nbsp;&nbsp;&nbsp;:arrow_left:](https://razomforukraine.org/)
 
