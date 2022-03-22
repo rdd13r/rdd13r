@@ -6,6 +6,7 @@ description: >-
   <p>❤️ <strong>Kotlin</strong> ❤️ <i>Scala</i> ❤️ <small>Java</small> ❤️</p>
 logo: /assets/img/v.png
 github_username:  rdd13r
+github: [metadata]
 show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 
