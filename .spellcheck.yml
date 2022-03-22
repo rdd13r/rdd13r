@@ -1,0 +1,26 @@
+spellchecker: aspell
+
+matrix:
+  - name: markdown
+    sources:
+      - README.md
+    hunspell:
+      d: docs/src/dictionary/hunspell/en_US
+    aspell:
+      lang: en
+      d: en_US
+    dictionary:
+      wordlists:
+        - .en.text
+    pipeline:
+      - pyspelling.filters.markdown:
+      - pyspelling.filters.html:
+          comments: false
+          attributes:
+            - title
+            - alt
+          ignores:
+            - code
+            - pre
+      - pyspelling.filters.url:
+    default_encoding: utf-8
