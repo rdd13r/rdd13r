@@ -1,4 +1,4 @@
-title: 💙💛 🇺🇸 Vadim Kuhay
+title: 💙💛 Vadim Kuhay 🇺🇸🇺🇸🇺🇸
 email: 12781006+rdd13r@users.noreply.github.com
 description: >-
   <h3>Principal Software Engineer</h3>
@@ -7,7 +7,8 @@ description: >-
 logo: /assets/img/v.png
 show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
-baseurl: "https://rdd13r.github.io/rdd13r/"
+repository: rdd13r/rdd13r
+author: Vadim Kuhay
 
 plugins:
   - jekyll-remote-theme
