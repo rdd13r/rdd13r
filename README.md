@@ -1,6 +1,6 @@
 #  👋  Hey there!
 
-People call me R!dd13r :frown: _I am grateful to have coached some of the smartest software engineering teams on the planet!, happily, over the course of my 30+ years long coding career._
+People call me R!dd13r :upside_down_face: _I am grateful to have coached some of the smartest software engineering teams on the planet!, happily, over the course of my 30+ years long coding career._
 <small>(:wink: in 5 human languages)</small>
 
 > See my short [resume synopsis](https://rdd13r.github.io/rdd13r/)....
