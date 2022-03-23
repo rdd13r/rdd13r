@@ -2,22 +2,23 @@
 R!dd13r <12781006+rdd13r@users.noreply.github.com>
 v0.1.0, Mon Mar 21 13:51:18 EST 2022: deprecated draft.
 :description: ❤️ Kotlin ❤️  Scala ❤️ Java ❤️
-:icons: font
 :toc: preamble
 :toclevels: 1
 :toc-title: Scope of Professional Activities
 :keywords: resume
-:imagesdir: ./img
+:imagesdir: ./assets/img
+:tip-caption: 💡️
+:note-caption: ℹ️
+:important-caption: ❗
+:caution-caption: 🔥
+:warning-caption: ⚠️
 
-ifdef::env-github[]
-:tip-caption: :bulb:
-:note-caption: :information_source:
-:important-caption: :heavy_exclamation_mark:
-:caution-caption: :fire:
-:warning-caption: :warning:
-endif::[]
+[IMPORTANT]
+====
+_**Dear Recruiters**_ - I only consult https://asei.systems[through ASE Inc.^] Inquire with link:mailto:contact@asei.systems?subject=We%20need%20an%20expert%2C%20please!&body=Dear%20R!dd13r%2C%0A%0A%20%20Can%20you%20please%20help%20with%20...[contact@asei.systems^]
+====
 
-IMPORTANT: _**Recruiters**_ - _please don't trash my inbox_: I am only available for a corp-to-corp contract with reputable clients. link:mailto:contact@asei.systems[contact@asei.systems]
+https://github.com/rdd13r
 
 *_Lead software engineering teams hands-on applying decades of experience to assure market disruption, innovation, and maximized revenue._*
 
