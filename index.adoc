@@ -1,6 +1,6 @@
-= 💙💛 🇺🇸 Vadim Kuhay: Principal Software Engineer
+= 💙💛 Vadim Kuhay: Principal Software Engineer 🇺🇸
 R!dd13r <12781006+rdd13r@users.noreply.github.com>
-v0.1.0, Mon Mar 21 13:51:18 EST 2022: deprecated draft.
+v2.8.7, Mon Mar 21 13:51:18 EST 2022: incremental.
 :description: ❤️ Kotlin ❤️  Scala ❤️ Java ❤️
 :toc: preamble
 :toclevels: 1
@@ -15,7 +15,8 @@ v0.1.0, Mon Mar 21 13:51:18 EST 2022: deprecated draft.
 
 [IMPORTANT]
 ====
-_**Dear Recruiters**_ - I only consult https://asei.systems[through ASE Inc.^] Inquire with link:mailto:contact@asei.systems?subject=We%20need%20an%20expert%2C%20please!&body=Dear%20R!dd13r%2C%0A%0A%20%20Can%20you%20please%20help%20with%20...[contact@asei.systems^]
+_**Dear Recruiters**_ - I only consult https://asei.systems[through ASE Inc.^] +
+Please inquire with link:mailto:contact@asei.systems?subject=We%20need%20an%20expert%2C%20please!&body=Dear%20R!dd13r%2C%0A%0A%20%20Can%20you%20please%20help%20with%20...[contact@asei.systems^]
 ====
 
 https://github.com/rdd13r
@@ -212,7 +213,7 @@ Asm | C / C++ | STL | Obj.C | NeXTSTEP | Lisp | Prolog | COBOL | MPI | OSGi | QN
 
 == 1992 - 1997: Software Engineer, Professional, Allentown, PA
 
-NOTE: _Undocumented Immigrant_
+TIP: Accomplished as an _undocumented immigrant_!
 
 - Implement UNIX daemons for mainframe business processes
 - Implement devices drivers, bridges, relays, message channels
@@ -224,7 +225,7 @@ SH | Asm | C / C++ | STL? | Pascal | TurboPascal | AT&T UNIX | X11 | IBM 370 fam
 
 == 1989 - 1992: Amateur Programmer, Allentown PA
 
-NOTE: _Undocumented Immigrant_
+TIP: Accomplished as an _undocumented immigrant_!
 
 - Recognized minor revenue writing code for collegiate programming competitions
 - Recognized living revenue writing code for collegiate term assignments
@@ -234,3 +235,7 @@ SH | Asm | C / C++ | Basic | Pascal | AmigaOS | AT&T UNIX
 == 1986 - 1989: Soviet Programming Competitions, Ukraine, USSR
 
 BASIC | ATARI | AT&T UNIX | SH | GNU C / C++
+
+== 2008 - Present: NPO Antonation, Ukraine, USA
+
+- _Prepare gifted children for https://icpc.global/[the collegiate programming life^]_
