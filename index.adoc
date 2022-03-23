@@ -211,15 +211,29 @@ Asm | C / C++ | STL | Obj.C | NeXTSTEP | Lisp | Prolog | COBOL | MPI | OSGi | QN
 
 - Defended democracy as an Airborne Combat Engineer, Regular Army
 
-== 1992 - 1997: Software Engineer, Professional, Allentown, PA
+== 1992 - 1997: Software Engineer, Allentown, PA
+
+[IMPORTANT]
+.Eternal Gratitude: Forming Years.
+====
+My sincerest thanks to men and women
+https://en.wikipedia.org/wiki/Hacker_culture[_on the scene_^]
+who have managed
+to adequately expose my resisting young mind to the eternal
+and boundless beauty through such truth as _data structures and algorithms_,
+at work and at school, changing my life, fortunes,
+https://en.wikipedia.org/wiki/Hacker_ethic[_and mindset_] forever.
+-- _I think of you and pay it forward every day!_
+====
 
 TIP: Accomplished as an _undocumented immigrant_!
 
-- Implement UNIX daemons for mainframe business processes
-- Implement devices drivers, bridges, relays, message channels
-- Implement systems and platforms test software, including penetration
-- 1992 - implement first commercial software, messaging channel for PDCD
+- Implemented UNIX daemons for mainframe business processes
+- Implemented devices drivers, bridges, relays, message channels
+- Implemented systems and platforms test software, including penetration
+- 1992 - implemented first commercial software, messaging channel for PDCD
 - (1997 - political asylum / adjustment of status / legalization)
+- Earned a college degree while working in the destined field of calling
 
 SH | Asm | C / C++ | STL? | Pascal | TurboPascal | AT&T UNIX | X11 | IBM 370 family
 
@@ -232,7 +246,7 @@ TIP: Accomplished as an _undocumented immigrant_!
 
 SH | Asm | C / C++ | Basic | Pascal | AmigaOS | AT&T UNIX
 
-== 1986 - 1989: Soviet Programming Competitions, Ukraine, USSR
+== 1986 - 1989: Soviet Informatics Competitions, Ukraine, USSR
 
 BASIC | ATARI | AT&T UNIX | SH | GNU C / C++
 
