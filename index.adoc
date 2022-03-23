@@ -246,7 +246,7 @@ TIP: Accomplished as an _undocumented immigrant_!
 
 SH | Asm | C / C++ | Basic | Pascal | AmigaOS | AT&T UNIX
 
-== 1986 - 1989: Soviet Informatics Competitions, Ukraine, USSR
+== 1986 - 1989: Soviet Informatics Competitions, Ukrainian SSR
 
 BASIC | ATARI | AT&T UNIX | SH | GNU C / C++
 
