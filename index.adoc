@@ -186,7 +186,7 @@ _IBM urbanCode_
 
 - Designed and implemented distributed content federation platform
 - Established a modern software company values, policies, and infrastructure
-- Attempted to motivate, modernise, and educate an all-Indian subsidiary
+- Attempted to motivate, modernise, and educate an offshore subsidiary
 
 _Dozens of **Content Management Frameworks**_ | jBPM | Drools | JBoss |
 Atlassian Suite | Jenkins | Puppet | Chef | Ansible | BASH | KSH |
