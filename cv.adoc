@@ -20,8 +20,9 @@ ____
 In the world of business, the people who are most successful are those who are doing what they love.
 ____
 
+'''
 //.Vadim Kuhay
-[cols="<.^4,>.^1",frame=all,grid=none]
+[cols="<.^2,>.^1",frame=all,grid=none]
 |===
 a|
 .Hacker-In-Chief
