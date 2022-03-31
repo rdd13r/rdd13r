@@ -22,20 +22,16 @@ ____
 
 '''
 
-[cols="2,1",frame=all,grid=none]
+[cols="3a,1a",frame=all,grid=none]
 |===
-|**CIO**, Vice President: _Technology-Driven-Enterprise Executive_ |
+|**CIO**, Vice President: _Technology-Driven-Enterprise Executive_
 
-a|Exceptional experience in turning around distressed situations and failing IT practices and policies to bring about timely operational and financial stability. Praised for forming, enabling, and motivating powerful sought-after leadership teams with synergetic common vision and goal.  Recognized for strong ability to disrupt markets and dominate revenue streams with powerful business domain software that can only be created by remarkable dedicated _Domain Dream Teams_ (DDT)s of company own making.
-a|
-[#img-vkp]
-//.Photo
+Exceptional experience in turning around distressed situations and failing IT practices and policies to bring about timely operational and financial stability. Praised for forming, enabling, and motivating powerful sought-after leadership teams with synergetic common vision and goal.  Recognized for strong ability to disrupt markets and dominate revenue streams with powerful business domain software that can only be created by remarkable dedicated _Domain Dream Teams_ (DDT)s of company own making.
+
+Deep real _hands-on technical expertise_ in domain, context, application delivery, cybersecurity, infrastructure, monolithic and distributed systems, and IT operations throughout the technology adoption curve: innovator start-ups to iconic traditional.
+|[#img-vkp]
 [link=https://www.linkedin.com/in/vadimkuhay/]
 image::{docdir}/assets/img/vp.png[Vadim]
-
-|
-|
-
 |===
 
 == Driving Results Through Leadership and Planning
