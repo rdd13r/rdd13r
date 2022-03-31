@@ -21,7 +21,7 @@ In the world of business, the people who are most successful are those who are d
 ____
 
 //.Vadim Kuhay
-[cols="<.^5,>.^1",frame=all,grid=none]
+[cols="<.^4,>.^1",frame=all,grid=none]
 |===
 a|
 .Hacker-In-Chief
