@@ -1,4 +1,4 @@
-= 💙💛 Vadim Kuhay: Inspiring Leadership 🇺🇸
+= **Vadim Kuhay:** _Inspiring Leadership_
 R!dd13r <12781006+rdd13r@users.noreply.github.com>
 v2.8.7, Mon Mar 31 14:20:22 EST 2022: incremental.
 :description: Unravelling compounded problems into pipelines of opportunities, strategies, solutions, and revenue.
@@ -14,21 +14,26 @@ v2.8.7, Mon Mar 31 14:20:22 EST 2022: incremental.
 :figure-caption!:
 
 
-> An experiment 'by market domain' is just marketing - rdd13r
+.The Law of Success
+[quote, Warren Buffett, www.forbes.com]
+____
+In the world of business, the people who are most successful are those who are doing what they love.
+____
 
 //.Vadim Kuhay
 [cols="<.^5,>.^1",frame=all,grid=none]
 |===
 a|
-== **CIO/CTO:** _Technology-Driven-Enterprise Executive_
+.Hacker-In-Chief
+**CIO**, Vice President: _Technology-Driven-Enterprise Executive_
 
-Recognized for strong ability to disrupt market with powerful business domain software
+Exceptional experience in turning around distressed situations and failing IT practices and policies to bring about timely operational and financial stability. Praised for forming, enabling, and motivating powerful sought-after leadership teams with synergetic common vision and goal.  Recognized for strong ability to disrupt markets and dominate revenue streams with powerful business domain software that can only be created by remarkable dedicated _Domain Dream Teams_ (DDT)s of company own making.
 
 a|
 [#img-vkp]
 //.Photo
 [link=https://www.linkedin.com/in/vadimkuhay/]
-image::/assets/img/vp.png[Vadim]
+image::{docdir}/assets/img/vp.png[Vadim]
 
 |===
 
