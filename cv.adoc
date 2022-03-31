@@ -1,0 +1,41 @@
+= 💙💛 Vadim Kuhay: Inspiring Leadership 🇺🇸
+R!dd13r <12781006+rdd13r@users.noreply.github.com>
+v2.8.7, Mon Mar 31 14:20:22 EST 2022: incremental.
+:description: Unravelling compounded problems into pipelines of opportunities, strategies, solutions, and revenue.
+:doctype: article
+:keywords: resume cv kuhay ASE asei architect
+:imagesdir: ./assets/img
+:tip-caption: 💡️
+:note-caption: ℹ️
+:important-caption: ❗
+:caution-caption: 🔥
+:warning-caption: ⚠️
+:table-caption!:
+:figure-caption!:
+
+
+> An experiment 'by market domain' is just marketing - rdd13r
+
+//.Vadim Kuhay
+[cols="<.^5,>.^1",frame=all,grid=none]
+|===
+a|
+== **CIO/CTO:** _Technology-Driven-Enterprise Executive_
+
+Recognized for strong ability to disrupt market with powerful business domain software
+
+a|
+[#img-vkp]
+//.Photo
+[link=https://www.linkedin.com/in/vadimkuhay/]
+image::/assets/img/vp.png[Vadim,300,100]
+
+|===
+
+== Driving Results Through Leadership and Planning
+
+ToDo: add context
+
+== Client and Employment Success Example
+
+ToDo: full writeup
