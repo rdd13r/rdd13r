@@ -28,7 +28,7 @@ a|
 [#img-vkp]
 //.Photo
 [link=https://www.linkedin.com/in/vadimkuhay/]
-image::/assets/img/vp.png[Vadim,300,100]
+image::/assets/img/vp.png[Vadim]
 
 |===
 
