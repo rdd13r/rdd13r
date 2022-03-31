@@ -34,7 +34,7 @@ a|
 [#img-vkp]
 //.Photo
 [link=https://www.linkedin.com/in/vadimkuhay/]
-image::{docdir}/assets/img/vp.png[Vadim,200]
+image::{docdir}/assets/img/vp.png[Vadim]
 
 |===
 
