@@ -21,18 +21,20 @@ In the world of business, the people who are most successful are those who are d
 ____
 
 '''
-//.Vadim Kuhay
+
 [cols="2,1",frame=all,grid=none]
 |===
-a|
-**CIO**, Vice President: _Technology-Driven-Enterprise Executive_
+|**CIO**, Vice President: _Technology-Driven-Enterprise Executive_ |
 
-Exceptional experience in turning around distressed situations and failing IT practices and policies to bring about timely operational and financial stability. Praised for forming, enabling, and motivating powerful sought-after leadership teams with synergetic common vision and goal.  Recognized for strong ability to disrupt markets and dominate revenue streams with powerful business domain software that can only be created by remarkable dedicated _Domain Dream Teams_ (DDT)s of company own making.
+a|Exceptional experience in turning around distressed situations and failing IT practices and policies to bring about timely operational and financial stability. Praised for forming, enabling, and motivating powerful sought-after leadership teams with synergetic common vision and goal.  Recognized for strong ability to disrupt markets and dominate revenue streams with powerful business domain software that can only be created by remarkable dedicated _Domain Dream Teams_ (DDT)s of company own making.
 a|
 [#img-vkp]
 //.Photo
 [link=https://www.linkedin.com/in/vadimkuhay/]
 image::{docdir}/assets/img/vp.png[Vadim]
+
+|
+|
 
 |===
 
