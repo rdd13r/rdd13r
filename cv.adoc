@@ -1,4 +1,4 @@
-= **Vadim Kuhay:** _Inspiring Leadership_
+= **Vadim Kuhay:** _Inspiring Practical Engineering_
 R!dd13r <12781006+rdd13r@users.noreply.github.com>
 v2.8.7, Mon Mar 31 14:20:22 EST 2022: incremental.
 :description: Unravelling compounded problems into pipelines of opportunities, strategies, solutions, and revenue.
@@ -20,24 +20,104 @@ ____
 In the world of business, the people who are most successful are those who are doing what they love.
 ____
 
+== @R!dd13r: contact@asei.systems
+
 '''
-
-[cols="3a,1a",frame=all,grid=none]
+.Unravelling compounded problems into pipelines of opportunities, strategies, solutions, and revenue.
+[cols="3a,1a",frame=all,grid=row]
 |===
-|**CIO**, Vice President: _Technology-Driven-Enterprise Executive_
+| **CIO**, Vice President: _Technology-Driven-Enterprise Executive_
 
-Exceptional experience in turning around distressed situations and failing IT practices and policies to bring about timely operational and financial stability. Praised for forming, enabling, and motivating powerful sought-after leadership teams with synergetic common vision and goal.  Recognized for strong ability to disrupt markets and dominate revenue streams with powerful business domain software that can only be created by remarkable dedicated _Domain Dream Teams_ (DDT)s of company own making.
+Extreme focus on fixing that which matters most. Exceptional experience in turning around distressed situations and failing IT practices and policies to bring about timely operational and financial stability. Praised for forming, enabling, and motivating powerful and sought-after leadership teams with synergetic common vision and goal. Recognized for strong ability to generate automatic revenue streams and disrupt markets through competent software.
 
-Deep real _hands-on technical expertise_ in domain, context, application delivery, cybersecurity, infrastructure, monolithic and distributed systems, and IT operations throughout the technology adoption curve: innovator start-ups to iconic traditional.
-|[#img-vkp]
+Deep _hands-on technical expertise_ instrumental with practical ability to lead business domain teams. History of turning chaos into engineering and engineering into chaos engineering. Strong moral compass with drive to win.
+| [#img-vkp]
 [link=https://www.linkedin.com/in/vadimkuhay/]
 image::{docdir}/assets/img/vp.png[Vadim]
 |===
 
+=== Contact Cards
+
+- https://github.com/rdd13r[Personal GitHub Profile Home^] - _development community anchor_
+- https://rdd13r.github.io/rdd13r[Personal GitHub Resume^] - _publicly shared resume anchor_
+- https://www.asei.systems/our-team[ASE Inc Profile^] - _employer and team anchor_
+- https://www.linkedin.com/in/vadimkuhay[LinkedIn Profile^] - _personal and corporate network_
+
+<<<
+
 == Driving Results Through Leadership and Planning
 
-ToDo: add context
+.The Law of Software Success
+[quote, Linus Torvalds, lkml.org, 2000-08-25 ]
+____
+Talk is cheap. Show me the code.
+____
+
+[cols="1a,3a",frame=all,grid=rows]
+|===
+| Leadership Excellence | Tangible Outcome
+
+| **Driving _Digital Transformation_ (DX) Strategy**
+| Led execution of durable market repositioning through technology for nearly a dozen of iconic American companies. As principal [contracted] _Transformation Architect_, CIO / CTO, spearheaded business-wide initiative driving the corporate evolution of policy and strategy **materialized by** _expert-hands-on leadership to delivery_ and recognized by improved market positions and revenue realization.
+
+| _Customer Experience as **the** Revenue Driver_
+| Led technological and cultural transformation of nearly a dozen of conservative corporate customers as well as enlightenment and inception of over two dozen startup teams producing loyal natural customer base and sustained growth on merit of competent business software dynamically tuned catering value to consumer needs.
+
+| **Leadership by Example**
+| Evangelize with _Netflix/Google style_ multidisciplinary Business Domain Teams (_the Dream Teams_). Spearhead player-coaching model of leadership . Exemplary end-to-end hands-on contribution in policy, event storming, behavior testing, design, and implementation. Promote L. Torvalds exemplified practical competence. Foster personal leadership development through agile mindset and extreme programming.
+
+|===
+
+<<<
 
 == Client and Employment Success Example
 
-ToDo: full writeup
+[cols="1a,3a",frame=all,grid=rows]
+|===
+
+| **Digital Transformation**
+
+- Blue Cross Blue Shield of NC
+- Mutual of Omaha Insurance
+- Deutsche Bank
+- Credit Suisse
+- ...
+
+|
+- Led a team of five solution architects and over a dozen developers transforming practice, technology, and culture affording Blue Cross future market share
+- Led a large team through conceptualization, development, and fielding of the next generation platform enabling machine learning and data-driven analytics over structured and unstructured content placing a leading European bank solidly ahead of competition; allowing another European bank to make a market entry
+- Produced policy then fielded a cross-cut IT business division concept asserting SDLC / DevOps practices evolution and integration as a measurable and manageable business concern uprooting conservative companies' inherent political and operational stagnation tendency
+
+| **Key Business Software **
+
+- Merck & Co.
+- Pfizer
+- Johnson & Johnson
+- Novo Nordisk
+- ...
+
+|
+- Led and participated in implementation of critical business software asserting continued success both to the customer and to the immediate employer
+- Led creation of _Center of Excellence_ kind of virtual organizations to operate as center of concrete best practices vetting and mapping engineering behavior directly to business success
+- Contributed key concepts, design and code on several process-automation platforms later recognized as _game-changing_ for its bio-med research corporate owners
+- Seeded customers with _Domain Driven Design (DDD)_ extreme competitive advantage
+
+| **Venture Capital Inception**
+
+over two-dozen stealth and group investment startups on three continents
+
+|
+- Developed mobile-only (IoT) cryptocurrency platform prototype and community
+- Developed sets of domain software archetypes allowing rapid-launch operations
+- Developed machine learning tooling for marketing 'sentiment analysis'
+- Partnered up with legal organisations specializing in promoting innovation
+
+| **Corporate Volunteering**
+>| Antonation - _robotics and machine learning for teens and preteens_ +
+Hackerspaces - community advocate and independent promoter +
+💙💛🇺🇸_Business for Democracy in Ukraine_
+
+|===
+
+<<<
+
