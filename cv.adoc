@@ -118,14 +118,12 @@ over two-dozen stealth and group investment startups on three continents
 | **Corporate Volunteering**
 >| Antonation - _robotics and machine learning for teens and preteens_ +
 Hackerspaces - community advocate and independent promoter +
-💙💛🇺🇸_Business for Democracy in Ukraine_
+💙💛🇺🇸 _Business for Democracy in Ukraine_
 
 |===
 
 <<<
 
-[#img-vkp]
+[#img-histogram]
 [link=https://www.linkedin.com/in/vadimkuhay/]
-image::{docdir}/assets/img/history_vert.drawio.png[Vadim]
-
-<<<
+image::{docdir}/assets/img/history_vert.drawio.png[R!dd13r's Histogram]
