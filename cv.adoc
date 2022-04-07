@@ -66,6 +66,9 @@ ____
 | **Leadership by Example**
 | Evangelize with _Netflix/Google style_ multidisciplinary Business Domain Teams (_the Dream Teams_). Spearhead player-coaching model of leadership . Exemplary end-to-end hands-on contribution in policy, event storming, behavior testing, design, and implementation. Promote L. Torvalds exemplified practical competence. Foster personal leadership development through agile mindset and extreme programming.
 
+| _Impeccable **Track Record**_
+| Apply mastered and improved through research, trial and error personal professional leadership development methodology named _Champion Model_ based on the _US, Special Forces Operational Detachment Alpha (SFOD A)_ assuring rapid positive cultural and technical transformation, morale boost, improved team's delivery consistency and software platform durability. Over three hundred champions and seventeen _Dream Teams_ enabled since 2015.
+
 |===
 
 <<<
@@ -121,3 +124,8 @@ Hackerspaces - community advocate and independent promoter +
 
 <<<
 
+[#img-vkp]
+[link=https://www.linkedin.com/in/vadimkuhay/]
+image::{docdir}/assets/img/history_vert.drawio.png[Vadim]
+
+<<<
