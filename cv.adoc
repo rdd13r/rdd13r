@@ -33,7 +33,7 @@ Extreme focus on fixing that which matters most. Exceptional experience in turni
 Deep _hands-on technical expertise_ instrumental with practical ability to lead business domain teams. History of turning chaos into engineering and engineering into chaos engineering. Strong moral compass with drive to win.
 | [#img-vkp]
 [link=https://www.linkedin.com/in/vadimkuhay/]
-image::{docdir}/assets/img/vp.png[Vadim]
+image::https://rdd13r.github.io/rdd13r/assets/img/vp.png[Vadim]
 |===
 
 === Contact Cards
@@ -126,4 +126,4 @@ Hackerspaces - community advocate and independent promoter +
 
 [#img-histogram]
 [link=https://www.linkedin.com/in/vadimkuhay/]
-image::{docdir}/assets/img/history_vert.drawio.png[R!dd13r's Histogram]
+image::https://rdd13r.github.io/rdd13r/assets/img/history_vert.drawio.png[R!dd13r's Histogram]
