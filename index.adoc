@@ -1,3 +1,6 @@
+---
+layout: rdd13r
+---
 = 💙💛 Vadim Kuhay: Principal Software Engineer 🇺🇸
 R!dd13r <12781006+rdd13r@users.noreply.github.com>
 v2.8.7, Mon Mar 21 13:51:18 EST 2022: incremental.
