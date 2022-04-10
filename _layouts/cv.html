@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <style>
+          #rdd {
+              background-image: url("{{ '/assets/img/rdd13r.png' | relative_url }}");
+              background-repeat: no-repeat;
+              background-attachment: local fixed;
+              background-position:bottom right;
+              width: 100%;
+              height:200px;
+          }
+      </style>
+
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+    {% include head-rdd13r.html %}
+
+
+  </head>
+  <body>
+
+
+  <div class="wrapper">
+      <h1>{{ page.title }}</h1>
+      &nbsp;
+      <article>
+
+      {{ content }}
+
+      </article>
+
+      <div id="rdd">
+          <hr>
+          <p>
+              <ul>
+                <li><a href="https://asei.systems">ASE Inc.</a></li>
+                <li><a href="https://asei.systems/our-team">ASE Inc. Executive Team</a></li>
+                <li><a href="https://www.linkedin.com/company/24998458/admin/">LinkedIn ASE Inc.</a></li>
+                <li><a href="https://www.linkedin.com/in/vadimkuhay/">LinkedIn Vadim Kuhay</a></li>
+                <li><a href="https://github.com/rdd13r/">GitHub R!dd13r</a></li>
+                <li><a href="https://github.com/aseix">GitHub ASEiX</a></li>
+                <li><a href="https://github.com/asei-systems">GitHub ASE Customer Portal (secured)</a></li>
+            </ul>
+          </p>
+      </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
