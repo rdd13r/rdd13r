@@ -1,7 +1,8 @@
 #  👋  Hey there!
 
-People call me R!dd13r :upside_down_face: _I am grateful to have coached some of the smartest software engineering teams on the planet!; Happily, over the course of my 30+ years long coding career._ <br>
-<small>(:wink: in 5 human languages)</small>
+People here call me R!dd13r :upside_down_face: and I'm known by other names...
+
+I make **disruptive software** immensely enjoying my _polyglot programming life_ coding using the [happy Kotlin ecosystem](https://kotlinlang.org/ "A modern programming language that makes developers happier."), and also my [_beloved old Scala_](https://www.scala-lang.org/ "“that works” ― Martin Odersky, Programming in Scala"), and still even some <small>Java</small>. _The best and most rewarding part of my calling is helping others excel at being functional._ 
 
 > See my [un résumé](https://rdd13r.github.io/rdd13r/)....
 
