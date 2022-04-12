@@ -4,7 +4,7 @@ People here call me R!dd13r :upside_down_face: and I'm also known by other names
 
 I make **disruptive software** immensely enjoying my _polyglot programming life_ coding using the [happy Kotlin ecosystem](https://kotlinlang.org/ "A modern programming language that makes developers happier."), and also my [_beloved old Scala_](https://www.scala-lang.org/ "“that works” ― Martin Odersky, Programming in Scala"), and still even some <small>Java</small>. _The best and most rewarding part of my calling is helping others excel at being functional._ 
 
-> See my [un résumé](https://rdd13r.github.io/rdd13r/)....
+> See my take on [un résumé](https://rdd13r.github.io/rdd13r/)....
 
 [:arrow_right:&nbsp;&nbsp;&nbsp;💙💛&nbsp;&nbsp;&nbsp;:arrow_left:](https://razomforukraine.org/)
 
