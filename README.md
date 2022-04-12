@@ -42,7 +42,7 @@ ____
 
 [:arrow_down:&nbsp;&nbsp;&nbsp;💙💛&nbsp;&nbsp;&nbsp;:arrow_down:](https://razomforukraine.org/)
 
-> _Telegram_: Once again __Kiev is at war__ with the orc horde* and  [__this channel follows Democracy's *Knights of Light*__](https://t.me/operativnoZSU).
+> _Telegram_: Once again __Kiev is at war__ with the orc horde and [__this channel follows the Free Democracy's *Knights of Light*__](https://t.me/operativnoZSU).
 
 [![](assets/img/kiev-vs-horde.jpg)](https://razomforukraine.org/)
 
