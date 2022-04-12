@@ -7,7 +7,7 @@ People call me R!dd13r :upside_down_face: _I am grateful to have coached some of
 
 [:arrow_right:&nbsp;&nbsp;&nbsp;💙💛&nbsp;&nbsp;&nbsp;:arrow_left:](https://razomforukraine.org/)
 
-I’m an **American** :us: software engineer, US Army :military_helmet: veteran, first generation immigrant (since before the Berlin wall fell), born and raised in the Soviet Ukraine. My spouse and I run a boutique software engineering business and raise our family in the adorable North Carolina. Our _differentiators is **competence**, performance, diversity and compassion_.
+I’m an **American** :us: software engineer, US Army :military_helmet: veteran, first generation immigrant (since before the Berlin wall fell), born and raised in the Soviet Ukraine. My spouse and I run a boutique software engineering business and raise our family in the adorable North Carolina. Our market _differentiators are **competence**, performance, diversity and compassion_.
 
 [:arrow_right:&nbsp;&nbsp;&nbsp;💙💛&nbsp;&nbsp;&nbsp;:arrow_left:](https://razomforukraine.org/)
 
