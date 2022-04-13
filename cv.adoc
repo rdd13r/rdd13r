@@ -23,11 +23,14 @@ ____
 In the world of business, the people who are most successful are those who are doing what they love.
 ____
 
-== @R!dd13r: contact@asei.systems
+&nbsp; +
+&nbsp;
 
+== @R!dd13r: contact@asei.systems
 [#img-ukr]
 [link=https://stand-with-ukraine.pp.ua]
 image::https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg[Stand With Ukraine]
+
 
 '''
 .Unravelling compounded problems into pipelines of opportunities, strategies, solutions, and revenue.
