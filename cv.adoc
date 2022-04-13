@@ -25,6 +25,10 @@ ____
 
 == @R!dd13r: contact@asei.systems
 
+[#img-ukr]
+[link=https://stand-with-ukraine.pp.ua]
+image::https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg[Stand With Ukraine]
+
 '''
 .Unravelling compounded problems into pipelines of opportunities, strategies, solutions, and revenue.
 [cols="3a,1a",frame=all,grid=row]

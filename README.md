@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 #  👋  Hey there!
 
 People here call me R!dd13r :upside_down_face: and I'm also known by other names all over the _Big Internet_...
@@ -13,6 +15,9 @@ I’m an **American** :us: software engineer, US Army :military_helmet: veteran,
 [:arrow_right:&nbsp;&nbsp;&nbsp;💙💛&nbsp;&nbsp;&nbsp;:arrow_left:](https://razomforukraine.org/)
 
 ___
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
 
 ## as __customary on GitHub__ :
 
