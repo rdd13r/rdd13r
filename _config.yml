@@ -16,3 +16,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-asciidoc
+
+# Google Analytics
+google_analytics: G-2ZP56CL0VR
+
