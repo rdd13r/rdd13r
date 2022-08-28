@@ -24,7 +24,7 @@ ___
 - 🔭 I’m currently working on:
   - methodology and tooling for coaching __Disruptive Dream Teams__
   - lots of functional code in __Kotlin and Scala__
-  - and our [YouTube Channel the "Hacker Tales"](https://www.youtube.com/channel/UCQHbfQOTapMI3EJdN1fQJPg)
+  - and our [YouTube Channel the "Hacker Tales"](https://www.youtube.com/channel/UCQHbfQOTapMI3EJdN1fQJPg) (hiatus till post November 2022)
 - 👀  I’m interested in too many things to list here ...
   - [![](assets/img/codeforces.png)](https://codeforces.com/catalog) with my son [@CaptainLugaru](https://github.com/CaptainLugaru) (12)
   - and, _every kind of clever programming competition, buildout, click, and robotics club_ 
