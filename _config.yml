@@ -1,13 +1,15 @@
-title: 💙💛 Architect 🇺🇸
+title: 🇺🇸R!dd13r💙💛
 email: 12781006+rdd13r@users.noreply.github.com
 description: >-
-  <h3>Solutions Architect</h3>
-  <h3>Full Stack Developer</h3>
-  <h3>Transformation Coach</h3>
+  <ul>
+    <li><strong><big>Solutions Architect</big></strong><li>
+    <li><strong><big>Full Stack Developer</big></strong><li>
+    <li><strong><big>Transformation Coach</big></strong><li>
+  </ul>
 
-  <p> ❤️<strong>Kotlin</strong>❤️ <-- ❤️<i>Scala</i>❤️<-- ❤<small>Java</small>❤</p>
+  <p> ❤️<strong>Kotlin</strong>❤️ <-- <i>Scala</i> <-- <i>Java</i> </p>
 logo: /assets/img/dadar-school-medalion.png
-show_downloads: true
+show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 repository: rdd13r/rdd13r
 author: Vadim Kuhay
@@ -21,4 +23,3 @@ plugins:
 
 # Google Analytics
 google_analytics: G-2ZP56CL0VR
-
