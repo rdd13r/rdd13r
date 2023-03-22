@@ -2,7 +2,7 @@
 
 #  👋  Hey there!
 
-Friends call me R!dd13r and I go by variants of that for some anonymity.
+Friends call me [R!dd13r](https://rdd13r.github.io/ "R!dd13r - <rdd13r>") and I go by variants of that for some anonymity.
 
 Many already know me personally because I get around. I made people wealthy through technology I've created over the decades and I haven't lost my soul in the process. And now I also make people happy sharing my passion for coding and engineering. I believe that the key to one's happiness is in doing what one loves the most.
 
