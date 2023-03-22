@@ -1,9 +1,9 @@
 ---
 layout: rdd13r
 ---
-= 💙💛 Vadim Kuhay: Principal Software Engineer 🇺🇸
+= 💙💛 Architect: Software Engineer 🇺🇸
 R!dd13r <12781006+rdd13r@users.noreply.github.com>
-v2.8.7, Mon Mar 21 13:51:18 EST 2022: incremental.
+v3.0.1, Wednesday March 22 2023: incremental.
 :description: ❤️ Kotlin ❤️  Scala ❤️ Java ❤️
 :toc: preamble
 :toclevels: 1
@@ -18,7 +18,6 @@ v2.8.7, Mon Mar 21 13:51:18 EST 2022: incremental.
 
 [IMPORTANT]
 ====
-_**Dear Recruiters**_ - I only consult https://asei.systems[through ASE Inc.^] +
 Please inquire with link:mailto:contact@asei.systems?subject=We%20need%20an%20expert%2C%20please!&body=Dear%20R!dd13r%2C%0A%0A%20%20Can%20you%20please%20help%20with%20...[contact@asei.systems^]
 ====
 
