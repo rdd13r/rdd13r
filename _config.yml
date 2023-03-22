@@ -1,14 +1,13 @@
 title: 💙💛 Architect 🇺🇸
 email: 12781006+rdd13r@users.noreply.github.com
 description: >-
-  <h3>
-    Transformative Solutions Architect <br/>
-    Principal Software Engineer
-  </h3>
+  <h3>Solutions Architect</h3>
+  <h3>Full Stack Developer</h3>
+  <h3>Transformation Coach</h3>
 
-  <p>❤️ <strong>Kotlin</strong> ❤️ <i>Scala</i> ❤️ <small>Java</small> ❤️</p>
-logo: /assets/img/v.png
-show_downloads: false
+  <p> ❤️<strong>Kotlin</strong>❤️ <-- ❤️<i>Scala</i>❤️<-- ❤<small>Java</small>❤</p>
+logo: /assets/img/dadar-school-medalion.png
+show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 repository: rdd13r/rdd13r
 author: Vadim Kuhay
