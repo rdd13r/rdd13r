@@ -257,11 +257,12 @@ BASIC | ATARI | AT&T UNIX | SH | GNU C / C++
 
 - _Prepare gifted children for https://icpc.global/[the collegiate programming life^]_
 
-== Why R!ddl13r?
+== Why R!dd13r?
+> Personal - don't read!
 
-This is a long story about how the _scene culture_ works and the open, thick-skinned nature of people interactions in the hackerdom.
+This is a story about how the _scene culture_ works today and the open, thick-skinned nature of people interactions in the larger hackerdom.
 
-https://rdd13r.github.io/rdd13r/on-rdd13r[Here is the story]...
+https://rdd13r.github.io/rdd13r/on-rdd13r[Here is my story]...
 
 .The Law of Success
 [quote, Warren Buffett, www.forbes.com]
