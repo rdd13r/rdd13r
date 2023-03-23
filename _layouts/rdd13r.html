@@ -26,11 +26,11 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        <p class="view"><a href="{{ site.github.repository_url }}" target="_blank">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <p class="view"><a href="{{ site.github.owner_url }}" target="_blank">View My GitHub Profile</a></p>
         {% endif %}
 
         {% if site.show_downloads %}
@@ -51,22 +51,24 @@
         <div id="rdd13r" >
           <p>
             <ul>
-              <li><a href="https://www.asei.systems/ase-methods">ASE Inc. Methods</a></li>
+              <li><a href="https://www.asei.systems/ase-methods" target="_blank">ASE Inc. Methods</a></li>
               <li><a href="https://github.com/aseix">GitHub ASEiX</a></li>
             </ul>
-          <div><a href="https://www.asei.systems/"><img src="/rdd13r/assets/img/asei.png" alt="ASE Inc." width="60">ASE Inc.</img></a></div>
+          <div><a href="https://www.asei.systems/" target="_blank"><img src="/rdd13r/assets/img/asei.png" alt="ASE Inc." width="60">ASE Inc.</img></a></div>
 
-          <a href="https://stand-with-ukraine.pp.ua" >
+          <a href="https://stand-with-ukraine.pp.ua" target="_blank">
             <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="Stand With Ukraine">
           </a><br/>
           This project is maintained by <br/>
           &nbsp;&nbsp;&nbsp; <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
           <i>standing with Ukraine</i>
           </p>
-          <div><i>Figure out my <b>full</b> real name and I will give you a cookie!</i></div>
+          <p>
+            <div><i>Figure out my <b>full</b> real name and I will give you a cookie!</i></div>
+          </p>
         </div>
         {% endif %}
-        <p><br/>><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><br/>><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> - thank you!</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

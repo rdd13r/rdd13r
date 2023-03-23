@@ -7,12 +7,12 @@ description: >-
     <li><strong><big>Transformation Coach</big></strong></li>
   </ul>
 
-  <p> ❤️<strong>Kotlin</strong>❤️ <-- <i>Scala</i> <-- <i>Java</i> </p>
+  <p> ❤️<strong>Kotlin</strong>❤️ | <i>Scala</i> | <i>Java</i> </p>
 logo: /assets/img/dadar-school-medalion.png
 show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 repository: rdd13r/rdd13r
-author: Vadim Kuhay
+author: R!dd13r
 url: https://rdd13r.github.io
 baseurl: /rdd13r
 
