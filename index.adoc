@@ -7,7 +7,7 @@ v3.0.2, Thursday March 23 2023: incremental.
 :description: ❤️Kotlin ❤️Scala ❤️Java ❤️
 :toc: preamble
 :toclevels: 1
-:toc-title: Scope of Professional Activities
+:toc-title: Employment History
 :keywords: resume
 :imagesdir: ./assets/img
 :tip-caption: 💡️
@@ -251,6 +251,7 @@ BASIC | ATARI | AT&T UNIX | SH | GNU C / C++
 
 - _Prepare gifted children for https://icpc.global/[the collegiate programming life^]_
 
+[discrete]
 == Why R!dd13r?
 > Personal - don't read!
 

@@ -16,37 +16,27 @@ v2.8.7, Mon Mar 31 14:20:22 EST 2022: incremental.
 :table-caption!:
 :figure-caption!:
 
+Email mailto:contact@asei.systems[contact@asei.systems] to request a traditional resume in pdf.
 
-.The Law of Success
-[quote, Warren Buffett, www.forbes.com]
-____
-In the world of business, the people who are most successful are those who are doing what they love.
-____
-
-&nbsp; +
-&nbsp;
-
-== @R!dd13r: contact@asei.systems
 [#img-ukr]
 [link=https://stand-with-ukraine.pp.ua]
 image::https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg[Stand With Ukraine]
-
 
 '''
 .Unravelling compounded problems into pipelines of opportunities, strategies, solutions, and revenue.
 [cols="3a,1a",frame=all,grid=row]
 |===
-| **CIO**, Vice President: _Technology-Driven-Enterprise Executive_
+| _Technology-Driven-Enterprise Executive_, Architect, Engineer
 
-Extreme focus on fixing that which matters most. Exceptional experience in turning around distressed situations and failing IT practices and policies to bring about timely operational and financial stability. Praised for forming, enabling, and motivating powerful and sought-after leadership teams with synergetic common vision and goal. Recognized for strong ability to generate automatic revenue streams and disrupt markets through competent software.
+Focus on value. Exceptional experience in turning around distressed situations and failing IT practices and policies to bring about timely operational and financial stability. Praised for forming, enabling, and motivating powerful and sought-after software development teams with synergetic common vision and goals. Recognized for strong ability to generate automatic revenue streams and disrupt markets through end-to-end competent software delivery.
 
-Deep _hands-on technical expertise_ instrumental with practical ability to lead business domain teams. History of turning chaos into engineering and engineering into chaos engineering. Strong moral compass with drive to win.
+Deep _hands-on technical expertise_ instrumental with practical ability to lead business domain teams. History of turning chaos into engineering and engineering into chaos engineering. Strong moral compass with drive for success.
 | [#img-vkp]
 [link=https://www.linkedin.com/in/vadimkuhay/]
-image::https://rdd13r.github.io/rdd13r/assets/img/vp.png[Vadim]
+image::https://rdd13r.github.io/rdd13r/assets/img/vp.png[R!dd13r]
 |===
 
-=== Contact Cards
+== Contact Cards
 
 - https://github.com/rdd13r[Personal GitHub Profile Home^] - _development community anchor_
 - https://rdd13r.github.io/rdd13r[Personal GitHub Resume^] - _publicly shared resume anchor_
@@ -68,17 +58,16 @@ ____
 | Leadership Excellence | Tangible Outcome
 
 | **Driving _Digital Transformation_ (DX) Strategy**
-| Led execution of durable market repositioning through technology for nearly a dozen of iconic American companies. As principal [contracted] _Transformation Architect_, CIO / CTO, spearheaded business-wide initiative driving the corporate evolution of policy and strategy **materialized by** _expert-hands-on leadership to delivery_ and recognized by improved market positions and revenue realization.
+| Led execution of durable market repositioning through technology for iconic customers. As principal [contracted] _Transformation Architect_, CIO / CTO, spearheaded business-wide initiative driving the corporate evolution of policy and strategy **materialized by** _expert-hands-on leadership to delivery_ recognized by measurable metrics such as improved market positions and revenue realization.
 
 | _Customer Experience as **the** Revenue Driver_
-| Led technological and cultural transformation of nearly a dozen of conservative corporate customers as well as enlightenment and inception of over two dozen startup teams producing loyal natural customer base and sustained growth on merit of competent business software dynamically tuned catering value to consumer needs.
+| Led technological and cultural transformation at traditional-company and startup teams producing loyal natural customers and sustained growth on merit of competent business domain software delivery.
 
 | **Leadership by Example**
-| Evangelize with _Netflix/Google style_ multidisciplinary Business Domain Teams (_the Dream Teams_). Spearhead player-coaching model of leadership . Exemplary end-to-end hands-on contribution in policy, event storming, behavior testing, design, and implementation. Promote L. Torvalds exemplified practical competence. Foster personal leadership development through agile mindset and extreme programming.
+| Evangelize with _Netflix/Google style_ multidisciplinary Business Domain Teams (_the Dream Teams_). Spearhead player-coach model of leadership. Exemplary end-to-end hands-on contribution in development of soft skills and execution of event storming, behavior-driven design and testing, event-driven architecture, software implementation mastery. Foster personal leadership development through agile mindset and extreme programming culture.
 
 | _Impeccable **Track Record**_
-| Apply mastered and improved through research, trial and error personal professional leadership development methodology named _Champion Model_ based on the _US, Special Forces Operational Detachment Alpha (SFOD A)_ assuring rapid positive cultural and technical transformation, morale boost, improved team's delivery consistency and software platform durability. Over three hundred champions and seventeen _Dream Teams_ enabled since 2015.
-
+| Apply _Champion Model_ style of coaching based on the _US, Special Forces Operational Detachment Alpha (SFOD A)_ assuring rapid positive cultural and technical transformation, morale boost, delivery consistency, and durability.
 |===
 
 <<<
@@ -97,9 +86,9 @@ ____
 - ...
 
 |
-- Led a team of five solution architects and over a dozen developers transforming practice, technology, and culture affording Blue Cross future market share
+- Led a team of solution architects and developers transforming practice, technology, and culture affording Blue Cross consistent future market share
 - Led a large team through conceptualization, development, and fielding of the next generation platform enabling machine learning and data-driven analytics over structured and unstructured content placing a leading European bank solidly ahead of competition; allowing another European bank to make a market entry
-- Produced policy then fielded a cross-cut IT business division concept asserting SDLC / DevOps practices evolution and integration as a measurable and manageable business concern uprooting conservative companies' inherent political and operational stagnation tendency
+- Produced policy then fielded a cross-cut IT business division of fully automated SDLC / DevOps practices
 
 | **Key Business Software **
 
@@ -111,17 +100,17 @@ ____
 
 |
 - Led and participated in implementation of critical business software asserting continued success both to the customer and to the immediate employer
-- Led creation of _Center of Excellence_ kind of virtual organizations to operate as center of concrete best practices vetting and mapping engineering behavior directly to business success
-- Contributed key concepts, design and code on several process-automation platforms later recognized as _game-changing_ for its bio-med research corporate owners
-- Seeded customers with _Domain Driven Design (DDD)_ extreme competitive advantage
+- Led creation of _Center of Excellence_ internal organizations to operate as center of concrete best practices vetting and mapping engineering acumen to business success
+- Contributed key concepts, design and code on several process-automation platforms recognized as _game-changing_ by a competitor for a bio-med research company
+- Seeded practice with _Domain Driven Design (DDD)_ enabled competitive advantage
 
 | **Venture Capital Inception**
 
-over two-dozen stealth and group investment startups on three continents
+powering stealth and group investment startups in US and EU
 
 |
 - Developed mobile-only (IoT) cryptocurrency platform prototype and community
-- Developed sets of domain software archetypes allowing rapid-launch operations
+- Developed sets of domain software archetypes allowing 'rapid-launch' operations
 - Developed machine learning tooling for marketing 'sentiment analysis'
 - Partnered up with legal organisations specializing in promoting innovation
 
@@ -129,7 +118,6 @@ over two-dozen stealth and group investment startups on three continents
 >| Antonation - _robotics and machine learning for teens and preteens_ +
 Hackerspaces - community advocate and independent promoter +
 💙💛🇺🇸 _Business for Democracy in Ukraine_
-
 |===
 
 <<<
