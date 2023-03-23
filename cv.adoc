@@ -47,7 +47,7 @@ image::https://rdd13r.github.io/rdd13r/assets/img/vp.png[R!dd13r]
 
 == Driving Results Through Leadership and Planning
 
-.The Law of Software Success
+.Value Mantra
 [quote, Linus Torvalds, lkml.org, 2000-08-25 ]
 ____
 Talk is cheap. Show me the code.
@@ -55,7 +55,7 @@ ____
 
 [cols="1a,3a",frame=all,grid=rows]
 |===
-| Leadership Excellence | Tangible Outcome
+| Leadership Experience | Tangible Outcome
 
 | **Driving _Digital Transformation_ (DX) Strategy**
 | Led execution of durable market repositioning through technology for iconic customers. As principal [contracted] _Transformation Architect_, CIO / CTO, spearheaded business-wide initiative driving the corporate evolution of policy and strategy **materialized by** _expert-hands-on leadership to delivery_ recognized by measurable metrics such as improved market positions and revenue realization.
@@ -72,7 +72,7 @@ ____
 
 <<<
 
-== Client and Employment Success Example
+== Notable Accomplishments
 
 [cols="1a,3a",frame=all,grid=rows]
 |===
