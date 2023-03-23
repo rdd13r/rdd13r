@@ -150,7 +150,7 @@ _Apply broad range of earned skills to coach disruptive startups form capable te
 Alpha-Detachment Team Coaching |
 Developer Community Formation |
 Crypto Market Exploration |
-Product Development
+Minimum Viable Product Development
 
 https://kotlinlang.org/[Kotlin^] |
 https://ktor.io/docs/welcome.html[Ktor^] |
