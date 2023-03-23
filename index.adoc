@@ -21,9 +21,14 @@ v3.0.2, Thursday March 23 2023: incremental.
 Please inquire with link:mailto:contact@asei.systems?subject=We%20need%20an%20expert%2C%20please!&body=Dear%20R!dd13r%2C%0A%0A%20%20Can%20you%20please%20help%20with%20...[contact@asei.systems^]
 ====
 
-Solutions Architect |
-Full Stack Developer |
-Transformation Coach
+[caption=""]
+.Consulting as:
+[%autowidth,cols="3*",frame=none]
+|===
+a| *_Solutions Architect_*
+a| *_Full Stack Developer_*
+a| *_Transformation Coach_*
+|===
 
 https://github.com/rdd13r +
 https://rdd13r.github.io/rdd13r/cv
@@ -55,11 +60,11 @@ https://github.com/testcontainers[Testcontainers^]
 
 == 2017 - Present: Advanced Software Enterprises, Inc., (ASE) Cary, NC
 
-_Pair-programming with the best: applying 30+ years of hard-earned hands-on American wisdom and experience to enable teams of contributors making profitable business through competent software._
+_Pair-programming with the best: applying extensive experience to enable teams of contributors make business profitable through engineering competent._
 
-=== Principal Solutions Architect | Legendary American Customers
+=== Principal Solutions Architect | Corporate America
 
-Lead Digital Transformation hands-on for several iconic American companies: _Blue Cross and Blue Shield of North Carolina, Mutual of Omaha Insurance, Genworth Financial, Fidelity Investments, Credit Suisse_.
+Lead Digital Transformation _hands-on_ for iconic American companies: _Blue Cross and Blue Shield of North Carolina, Mutual of Omaha Insurance, Genworth Financial, Fidelity Investments, Credit Suisse, Citizens Bank_.
 
 https://kotlinlang.org/[Kotlin 1.6.10^] |
 https://kotlinlang.org/lp/server-side/[Kotlin Server-side^] |
@@ -103,7 +108,7 @@ _JHipster_
 
 === Principal Software Engineer | Product Development
 
-Develop innovative products on rapid investment strategy for some of the most prestigious customers.
+Develop innovative products on _"rapid returns strategy"_ for a prestigious venture capital customer.
 
 https://kotlinlang.org/[Kotlin^] |
 https://kotlinlang.org/lp/server-side/[Kotlin Server-side^] |
@@ -139,14 +144,14 @@ Gradle |
 https://github.com/testcontainers[Testcontainers^] |
 myriad of experimental technologies
 
-=== Co-founder | Disruptive Innovation | Startup Bootstrapping and Seeding
+=== Startup Bootstrapping and Seeding | Vested Partner
 
 _Apply broad range of earned skills to coach disruptive startups form capable teams and deliver on investors' expectations._
 
-* Hands-on lead formation of multidisciplinary domain teams and departments. Use Alpha-Detachment strategy to graduate dream-team within a 3-months window.
-* Utilize the global scene to form and graduate over a dozen market-disruptive teams.
-* Invision, design and implement next generation mobile-only crypto-platform from a small 8-digit $US trickle investment
-* Maintain proprietary extreme-performance distributed data engine (DAG) inherited from _ImperiSoft Solutions, Inc._
+Alpha-Detachment Team Coaching |
+Developer Community Formation |
+Crypto Market Exploration |
+Product Development
 
 https://kotlinlang.org/[Kotlin^] |
 https://ktor.io/docs/welcome.html[Ktor^] |
@@ -170,8 +175,8 @@ https://github.com/testcontainers[Testcontainers^]
 == 2012 - 2017: Deutsche Bank Global Technology, (DB) Cary, NC
 
 - Disrupted risk market developing **dbECM Platform** to place the investment bank _decade ahead of competition_
-- Implemented institution-wide SDLC Magic: _Everything-in-code_
-- _Recognized the highest accolades and awards for end-to-end automation_
+- Implemented institution-wide SDLC: _Everything-in-code_
+- _Recognized the highest accolades and awards for end-to-end automation_ (2016)
 
 Maven | Gradle | **Microservices** | _Java_ | Groovy | Python |
 https://github.com/scala/scala[Scala^] |
@@ -209,6 +214,7 @@ OSGi | Java | Scala | Groovy | Python | Perl | GNU C++ | STL | Linux |
 Spring Framework | Spring Data JPA | Struts | Maven | Gradle | VMware ESX
 
 == 2000 - 2005: MassivelyParallel, (MPC) Ft. Bragg, NC
+(Acquired and merged by competitor in 2005)
 
 - Together with world-class software engineering colleagues designed and implemented distributed information systems
 
@@ -219,21 +225,7 @@ Asm | C / C++ | STL | Obj.C | NeXTSTEP | Lisp | Prolog | COBOL | MPI | OSGi | QN
 - Defended democracy as an Airborne Combat Engineer, Regular Army
 
 == 1992 - 1997: Software Engineer, Allentown, PA
-
-[IMPORTANT]
-.Eternal Gratitude: Forming Years.
-====
-My sincerest thanks to men and women
-https://en.wikipedia.org/wiki/Hacker_culture[_on the scene_^]
-who have managed
-to adequately expose my resisting young mind to the eternal
-and boundless beauty through such truth as _data structures and algorithms_,
-at work and at school, changing my life, fortunes,
-https://en.wikipedia.org/wiki/Hacker_ethic[_and mindset_] forever.
--- _I think of you and pay it forward every day!_
-====
-
-TIP: Accomplished as an _undocumented immigrant_!
+(As an undocumented immigrant pending political asylum.)
 
 - Implemented UNIX daemons for mainframe business processes
 - Implemented devices drivers, bridges, relays, message channels
@@ -245,8 +237,7 @@ TIP: Accomplished as an _undocumented immigrant_!
 SH | Asm | C / C++ | STL? | Pascal | TurboPascal | AT&T UNIX | X11 | IBM 370 family
 
 == 1989 - 1992: Amateur Programmer, Allentown PA
-
-TIP: Accomplished as an _undocumented immigrant_!
+(As a student @ Pennsylvania State University)
 
 - Recognized minor revenue writing code for collegiate programming competitions
 - Recognized living revenue writing code for collegiate term assignments
