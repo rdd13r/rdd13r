@@ -1,7 +1,7 @@
 ---
 layout: cv
 ---
-= **Vadim Kuhay:** _Inspiring Practical Engineering_
+= _Inspiring Practical Engineering_
 R!dd13r <12781006+rdd13r@users.noreply.github.com>
 v2.8.7, Mon Mar 31 14:20:22 EST 2022: incremental.
 :description: Unravelling compounded problems into pipelines of opportunities, strategies, solutions, and revenue.
