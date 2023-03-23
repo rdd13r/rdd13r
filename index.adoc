@@ -16,6 +16,8 @@ v3.0.2, Thursday March 23 2023: incremental.
 :caution-caption: 🔥
 :warning-caption: ⚠️
 
+> I motivate software engineers to become exceptional by pair-programming with them.
+
 [IMPORTANT]
 ====
 Please inquire with link:mailto:contact@asei.systems?subject=We%20need%20an%20expert%2C%20please!&body=Dear%20R!dd13r%2C%0A%0A%20%20Can%20you%20please%20help%20with%20...[contact@asei.systems^]
@@ -255,7 +257,7 @@ BASIC | ATARI | AT&T UNIX | SH | GNU C / C++
 == Why R!dd13r?
 > Personal - don't read!
 
-This is a story about how the _scene culture_ works today and the open, thick-skinned nature of people interactions in the larger hackerdom.
+This is a story about how the _hacker culture_ works and our open interactions.
 
 https://rdd13r.github.io/rdd13r/on-rdd13r[Here is my story]...
 
