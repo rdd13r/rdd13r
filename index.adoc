@@ -26,10 +26,10 @@ https://rdd13r.github.io/rdd13r/cv
 
 *_Expert [.underline]#Hands-On# Digital Transformation Team Coach._*
 
-.The Law of Success
-[quote, Warren Buffett, www.forbes.com]
+.My Creed
+[quote, Linus Torvalds, 2000-08-25: Message to linux-kernel mailing list., Retrieved on 2006-08-28.]
 ____
-In the world of business, the people who are most successful are those who are doing what they love.
+Talk is cheap. Show me the code.
 ____
 
 '''
@@ -256,3 +256,36 @@ BASIC | ATARI | AT&T UNIX | SH | GNU C / C++
 == 2008 - Present: NPO Antonation, Ukraine, USA
 
 - _Prepare gifted children for https://icpc.global/[the collegiate programming life^]_
+
+== On My Handle
+
+This is a deeply personal piece that is long overdue for sharing. New people often ask me - "Why do they call you 'Riddler'?" Almost as if they mean to ask: "What have you done wrong?"
+
+[sidebar]
+****
+Hacker handles are the way for our community to recognize its accepted members. In 1992 on my first job my boss had trouble understanding my explanations for some UNIX daemon code that I'd written for her. I was an undocumented immigrant waiting for political asylum. She was the only one willing to employ me for coding. And, I'd only spoken English for about a couple of years back then. Sometimes my wonderful friend John would step in and help me convey my message to her. She would say that my code comments were like riddles. Eventually in his stroke of a genius John came up with 'Riddler,' and it stuck like stink on $#!^.
+
+When I learned who Riddler is I got very upset. Riddler was a loser super-villain in my mind. And I was distraught, like most hackers typically are at young age, I wanted to be a superhero instead. Riddler could not keep commitments or relationships, he's full of empty grandeur and arrogance, inflated ego, insecurity, and he's a psychopath - yuck! I'm generally the opposite. Only things we have in common are: love for puzzles and challenges, tenacity, color green, and love for knowledge. But, I understood how my community works and I reluctantly accepted the handle. In a way, it was funny. Next, I spent some time learning English and getting some clarity into my expressions and most importantly in self-documenting code. I needed to shake my Riddler off. But the handle didn't move.
+
+Sometimes I was happy to forget about the handle which resurfaced only occasionally in the oddest of settings. Then I joined the Army in 1997. And thought that that'd give me some continuity break from the clicks that know me. Later on when I'd come back to coding after my long and glorious military service people surely would forget. But they didn't forget!
+
+Much, much later in 2012 I took over a challenge of a massive API-Driven platform creation effort at Deutsche Bank. New people, my first big business employment - not a consultancy or a startup for a change - who'd know?! Yet one day when I was explaining to my boss, Tony D., how behavior-centric API pods are to be deployed in an API-driven platforms running Active-Active-Passive HA, he said: "You piss me off with all that technical mambo-jumbo ... Riddler! Can't you just explain things _*normally*_?!" And I was hit by a ton of bricks. You see, it's a key trait of a real hacker to be able to explain anything in plain English so that even a child can understand - otherwise, one has shown to not understand the item himself. And now I was looking at Tony D. _being in full stupor_ like I was looking at Suzan L., my first boss some 20 years ago...
+
+At the time Tony has first pronounced my handle in such an unflattering context we were also in the presence two other hackers on my team, my closest contributors and friends: "Marquis.De-CMOD" (*_marq_*, and his given name is Mark) - someone who knows absolutely everything about the internals of the IBM CMOD engine; and "Shebang" (*_\#!_*) - a scripting genius owning everything that starts with a '#!'. _Marq_ said: "Oh, he didn't like that, Tony." And then, _#!_ to me: "But you will always be Riddler to us." We were a close-knit team, like a family. I loved my teammates and respected each one dearly - we were all hand-picked at competitions by Tony. Everyone was better than yours truly, their lead.
+
+I have wholeheartedly accepted my handle right there and then. Since then, I was regularly referred to in that way, even during our frequent poker games as a team, and casually around the centre. Eventually, some people at the centre didn't even know my real name anymore, especially the contractors who we had hundreds of come and go regularly.
+
+Today I have my son (13) and his friends who I code with. And these boys silently remind me to always be clear and simple!
+****
+
+[IMPORTANT]
+.One must be careful with one's handle!
+====
+Hacker handles cannot be taken. They can only be given by a group to an individual or another group. Otherwise, we say: "the one who calls himself <something>" and that is frowned upon. When given to a person these don't need to be liked, nobody cares, but can only be accepted or not. When the handle is accepted the community recognizes this event as a fact and will allow the hacker to sign with the certificate issued by the click to that handle.
+====
+
+.The Law of Success
+[quote, Warren Buffett, www.forbes.com]
+____
+In the world of business, the people who are most successful are those who are doing what they love.
+____
