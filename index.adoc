@@ -16,7 +16,7 @@ v3.0.2, Thursday March 23 2023: incremental.
 :caution-caption: 🔥
 :warning-caption: ⚠️
 
-> I motivate software engineers to become exceptional by pair-programming with them.
+> I motivate people to become exceptional programmers
 
 [IMPORTANT]
 ====
@@ -30,6 +30,9 @@ Please inquire with link:mailto:contact@asei.systems?subject=We%20need%20an%20ex
 a| *_Solutions Architect_*
 a| *_Full Stack Developer_*
 a| *_Transformation Coach_*
+| with traditional
+| with startups
+| on ASE contracts
 |===
 
 https://github.com/rdd13r +
