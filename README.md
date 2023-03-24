@@ -36,7 +36,7 @@ I'm proud of Cpt. -- he's growing up to be a great human being! He's becoming wi
  
 -- Stephen King
 
-K... I best go help Cpt. with his homework.
+K... I best go help wise Cpt. with his homework.
 
 [:arrow_right:&nbsp;&nbsp;&nbsp;💙💛&nbsp;&nbsp;&nbsp;:arrow_left:](https://razomforukraine.org/ "Together for Ukraine")
 
