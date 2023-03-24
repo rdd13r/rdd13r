@@ -34,25 +34,20 @@ ___
 ## The __GitHub__ Way:
 
 - 🔭 I’m currently working on:
-  - masterclass on DDD & Event-Driven Architecture,
+  - creating a masterclass on DDD & Event-Driven Architecture,
   - ever-evolving methodology and tooling for coaching __Disruptive Dream Teams__,
-  - lots of functional code in __Kotlin and Scala__ for Masterclasses,
-  - and our [YouTube Channel the "Hacker Tales"](https://www.youtube.com/channel/UCQHbfQOTapMI3EJdN1fQJPg "Hacker Tales") scripts (on hold till Lugaru completes all of his homework)
+  - lots of functional __Kotlin__ code for the masterclass,
+  - __on hold__ is our [YouTube Channel](https://www.youtube.com/channel/UCQHbfQOTapMI3EJdN1fQJPg "Hacker Tales") till Cpt. decides to continue
 - 👀  I’m interested in too many things to list here ...
   - [![](assets/img/codeforces.png)](https://codeforces.com/catalog?locale=en "Code Forces Catalog") with my son [@CaptainLugaru](https://github.com/CaptainLugaru "Captain Lugaru") (13)
   - and, _every kind of clever programming competition, buildathon, and hackathon our clicks are on_ 
-  - and, of course, other coder's interests and code, when I'm asked to look...
+  - and, of course, my friends when I'm asked to look at some code...
 - 🌱  I’m currently learning awesome things with [@CaptainLugaru](https://github.com/CaptainLugaru "Captain Lugaru"):
   - Unity game development,
   - story character arcs,
   - Minecraft ML extension techniques.
-- 💞️  I’m looking to collaborate on:
-  - ... no capacity at the moment
-- 🤔 I’m looking for help with ...
-  - our YouTube channel dedicated to the [Great American Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture "Hacker Culture") celebrating real  __competence__ and [values](https://en.wikipedia.org/wiki/Hacker_ethic "Hacker Ethic")
 - 💬 Ask me about: DDD, Event-Driven, _microservices, microfrontends, Kotlin KMM, Kafka, k8s_
 - 📫  How to reach me:
-  - leave a message on [our company page, ASE Inc.](https://www.asei.systems/ "ASE Inc.") where I go by [@aseix](https://github.com/aseix "Private GitHub account for aseix")
   - write to [contact@asei.systems](mailto:contact@asei.systems)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: _I am bilingual in **English** and **Ukrainian**._
