@@ -209,7 +209,7 @@ Spring Framework 3 | Spring Data JPA | Cucumber | Gradle | VMware ESX
 
 == 2006 - 2011: Glemser Technologies, Bethlehem, PA
 
-- Together with world-class software engineering colleagues designed and implemented custom content management platforms *for major pharma*, life sciences companies governed by https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application[FDA CFR 21 Part 11]
+- Together with world-class software engineering colleagues designed and implemented custom content management platforms *for major pharma*, life sciences companies governed by https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application[FDA Title 21 CFR Part 11]
 - Research and business process automation through custom enterprise software
 
 **EMC Documentum** | JBoss | CI/CD | Jenkins |
