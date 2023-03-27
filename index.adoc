@@ -24,23 +24,11 @@ Please inquire with link:mailto:contact@asei.systems?subject=We%20need%20an%20ex
 ====
 
 [caption=""]
-.I code as:
 [%autowidth,cols="3*",frame=none]
 |===
 a| *_Solution Architect_*
 a| *_Full Stack Developer_*
 a| *_Transformation Coach_*
-|===
-
-[caption="Quick Links: "]
-.TOC
-[%autowidth,cols="5*",frame=none]
-|===
-| https://rdd13r.github.io/rdd13r/export/short-resume[Synoptic Resume]
-| https://rdd13r.github.io/rdd13r/export/recent-projects[Some Projects]
-| LinkedIn - _ask_
-| https://rdd13r.github.io/rdd13r/cv[Executive Summary]
-| Discord - _ask_
 |===
 
 .On Value:
@@ -263,14 +251,13 @@ BASIC | ATARI | AT&T UNIX | SH | GNU C / C++
 == 2008 - Present: NPO Antonation, Ukraine, USA
 
 - _Prepare gifted children for https://icpc.global/[the collegiate programming life^]_
+- Nonprofit activities in support of Ukraine
 
 [discrete]
 == Why R!dd13r?
-> Personal - don't read!
+> Personal - don't read! 🤫
 
-This is a story about how the _hacker culture_ works and our open interactions.
-
-https://rdd13r.github.io/rdd13r/on-rdd13r[Here is my story]...
+I've included a story about how the _hacker culture_ really works and nature of our open interactions among ourselves. You'll know how I became Riddler, if you can find it here. 🤪 And there are other Easter eggs too...
 
 .The Law of Success
 [quote, Warren Buffett, www.forbes.com]
