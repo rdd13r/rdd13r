@@ -27,7 +27,7 @@ Please inquire with link:mailto:contact@asei.systems?subject=We%20need%20an%20ex
 .I code as:
 [%autowidth,cols="3*",frame=none]
 |===
-a| *_Solutions Architect_*
+a| *_Solution Architect_*
 a| *_Full Stack Developer_*
 a| *_Transformation Coach_*
 |===
