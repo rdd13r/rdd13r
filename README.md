@@ -2,7 +2,12 @@
 
 #  👋  Hey there!
 
-Friends call me [R!dd13r](https://rdd13r.github.io/ "R!dd13r - <rdd13r>"). Since nobody ever reads these - I'll write a bunch here!
+Friends call me [R!dd13r](https://rdd13r.github.io/ "R!dd13r - <rdd13r>"). I am an ordinary American hacker making disruptive enterprise software, mentoring, coaching, and coding (a lot) for living...
+
+<details>
+<summary>A community member...</summary>
+
+Since nobody ever reads these - I'll write a bunch here!
 
 Many folks already know me personally because I tend to get around, present, and organize events. I haven't lost my soul in making people wealthy by my coding over the decades. Now I make people happy sharing my passion for programming and engineering because the key to one's happiness is in doing what one loves most.
 
@@ -14,11 +19,16 @@ As a _hacker_ coding for more than 30 years ... wait, **_NOT_** the [Hollywood '
 
 _The most rewarding part of my calling is helping others become successful and profitable programmers._ "Give before you get" is one of our core virtues.
 
+</details>
+
 Are you still reading?
 
 > If you need a dream team nurtured or a great application built - take a copy of my [résumé](https://rdd13r.github.io/rdd13r/) to your boss.
 
 [:arrow_right:&nbsp;&nbsp;&nbsp;💙💛&nbsp;&nbsp;&nbsp;:arrow_left:](https://razomforukraine.org/)
+
+<details>
+<summary>A family guy...</summary>
 
 I’m the Army :military_helmet: veteran and first generation immigrant. My last duty station is Ft. Bragg, NC. I was born and raised in the Soviet, Ukrainian SSR, and I call myself American since before the fall of the Berlin Wall. My spouse and I together run our boutique software engineering business that I'd mentioned above - she's our boss! Our company's market differentiators are **competence**, _performance, diversity and compassion_. Her handle is _ase-boss_.
 
@@ -37,6 +47,7 @@ I'm proud of Cpt. -- he's growing up to be a great human being! He's becoming wi
 -- Stephen King
 
 K... I best go help wise Cpt. with his homework.
+</details>
 
 [:arrow_right:&nbsp;&nbsp;&nbsp;💙💛&nbsp;&nbsp;&nbsp;:arrow_left:](https://razomforukraine.org/ "Together for Ukraine")
 

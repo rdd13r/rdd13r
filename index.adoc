@@ -18,10 +18,11 @@ v3.0.2, Thursday March 23 2023: incremental.
 
 > I motivate people to become exceptional programmers
 
-[IMPORTANT]
-====
-Please inquire with link:mailto:contact@asei.systems?subject=We%20need%20an%20expert%2C%20please!&body=Dear%20R!dd13r%2C%0A%0A%20%20Can%20you%20please%20help%20with%20...[contact@asei.systems^]
-====
+.On Value:
+[quote, Linus Torvalds, 2000-08-25: Message to linux-kernel mailing list., Retrieved on 2006-08-28.]
+____
+Talk is cheap. Show me the code.
+____
 
 [caption=""]
 [%autowidth,cols="3*",frame=none]
@@ -30,12 +31,6 @@ a| *_Solution Architect_*
 a| *_Full Stack Developer_*
 a| *_Transformation Coach_*
 |===
-
-.On Value:
-[quote, Linus Torvalds, 2000-08-25: Message to linux-kernel mailing list., Retrieved on 2006-08-28.]
-____
-Talk is cheap. Show me the code.
-____
 
 '''
 
