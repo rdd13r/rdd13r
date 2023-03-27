@@ -32,8 +32,16 @@ a| *_Full Stack Developer_*
 a| *_Transformation Coach_*
 |===
 
-https://github.com/rdd13r +
-https://rdd13r.github.io/rdd13r/cv
+[caption="Quick Links: "]
+.TOC
+[%autowidth,cols="5*",frame=none]
+|===
+| https://rdd13r.github.io/rdd13r/export/short-resume[Synoptic Resume]
+| https://rdd13r.github.io/rdd13r/export/recent-projects[Some Projects]
+| LinkedIn - _ask_
+| https://rdd13r.github.io/rdd13r/cv[Executive Summary]
+| Discord - _ask_
+|===
 
 .On Value:
 [quote, Linus Torvalds, 2000-08-25: Message to linux-kernel mailing list., Retrieved on 2006-08-28.]
