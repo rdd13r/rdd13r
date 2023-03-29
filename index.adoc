@@ -6,7 +6,7 @@ R!dd13r <12781006+rdd13r@users.noreply.github.com>
 v3.0.2, Thursday March 23 2023: incremental.
 :description: ❤️Kotlin ❤️Scala ❤️Java ❤️
 :toc: preamble
-:toclevels: 1
+:toclevels: 2
 :toc-title: Employment History
 :keywords: resume
 :imagesdir: ./assets/img
@@ -49,7 +49,7 @@ https://akka.io/[Lightbend Akka^] |
 https://kubernetes.io/[Kubernetes^] |
 https://github.com/testcontainers[Testcontainers^]
 
-== 2017 - Present: Advanced Software Enterprises, Inc., (ASE) Cary, NC
+== 2017 - Present: Advanced Software Enterprises, Inc., (ASE) Cary, NC | Technology Transformation
 
 _Pair-programming with the best: applying extensive experience to enable teams of contributors make business profitable through competent engineering._
 
@@ -165,7 +165,7 @@ https://github.com/scikit-learn/scikit-learn[scikit-learn^] |
 https://github.com/numpy/numpy[NumPy^] |
 https://github.com/testcontainers[Testcontainers^]
 
-== 2012 - 2017: Deutsche Bank Global Technology, (DB) Cary, NC
+== 2012 - 2017: Deutsche Bank Global Technology, (DB) Cary, NC | Technology Transformation
 
 - Disrupted risk market developing **dbECM Platform** to place the investment bank _decade ahead of competition_
 - Implemented institution-wide SDLC: _Everything-in-code_
@@ -186,8 +186,19 @@ https://www.opentext.com/products-and-solutions/products/enterprise-content-mana
 https://www.ibm.com/docs/en/filenet-p8-platform[IBM FileNet P8^] |
 _IBM urbanCode_
 
+=== 07/2016 - 12/2016: Equities BI | Domain Platform Remodeling
 
-== 2011 - 2012: Xybion Corporation, Philadelphia, PA
+*_Objective_*: _Transformation of product and team to obtain DB EaaS compliance certification (Strategy 2020)_
+
+=== 01/2016 - 07/2016: _Atlas_ | SDLC - CI/CD Principal Platform
+
+*_Objective_*: _Design bank’s Agile SDLC model templates, improve on CI/CD tooling, offer *Regulatory Record of Release* (R^3^)_
+
+=== 09/2012 - 01/2016: dbECM | Principal Content Platform
+
+Recognized *CIO Direct Line* Award for leading a combined team of over hundred contributors of fifteen domains to meet [.underline]#Objective# _on time and on budget_: Provision of bank-wide Content (Document and Record Management) Platform in modern EaaS Architecture: Strategy 2020
+
+== 2011 - 2012: Xybion Corporation, Philadelphia, PA | Enterprise Product Development
 
 - Designed and implemented distributed content federation platform
 - Established a modern software company values, policies, and infrastructure
@@ -198,7 +209,7 @@ Atlassian Suite | Jenkins | Puppet | Chef | Ansible | BASH | KSH |
 OSGi | Java | Scala | Groovy | Python | Ruby |
 Spring Framework 3 | Spring Data JPA | Cucumber | Gradle | VMware ESX
 
-== 2006 - 2011: Glemser Technologies, Bethlehem, PA
+== 2006 - 2011: Glemser Technologies, Bethlehem, PA | Enterprise ECM Consulting
 
 - Together with world-class software engineering colleagues designed and implemented custom content management platforms *for major pharma*, life sciences companies governed by https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application[FDA Title 21 CFR Part 11]
 - Research and business process automation through custom enterprise software
@@ -207,7 +218,7 @@ Spring Framework 3 | Spring Data JPA | Cucumber | Gradle | VMware ESX
 OSGi | Java | Scala | Groovy | Python | Perl | GNU C++ | STL | Linux |
 Spring Framework | Spring Data JPA | Struts | Maven | Gradle | VMware ESX
 
-== 2000 - 2005: MassivelyParallel, (MPC) Ft. Bragg, NC
+== 2000 - 2005: MassivelyParallel, (MPC) Ft. Bragg, NC | Weapon Systems Development
 (Acquired and merged by competitor in 2005)
 
 - Together with world-class software engineering colleagues designed and implemented distributed information systems
@@ -215,11 +226,11 @@ Spring Framework | Spring Data JPA | Struts | Maven | Gradle | VMware ESX
 
 Asm | C / C++ | STL | Obj.C | NeXTSTEP | Lisp | Prolog | COBOL | MPI | OSGi | QNX | SUN UNIX | SGI Origin AIX | BSD | Linux | Beowulf Cluster
 
-== 1997 - 2000: US Army, (20th EN BDE) Ft. Bragg, NC
+== 1997 - 2000: US Army, (20th EN BDE) Ft. Bragg, NC | Paratrooper: Shooting, Running, Digging
 
 - Defended democracy as an Airborne Combat Engineer, Regular Army
 
-== 1992 - 1997: Software Engineer, Allentown, PA
+== 1992 - 1997: Software Engineer, Allentown, PA | Coding Daemons
 (As an undocumented immigrant pending political asylum.)
 
 - Implemented UNIX daemons for mainframe business processes
@@ -231,7 +242,7 @@ Asm | C / C++ | STL | Obj.C | NeXTSTEP | Lisp | Prolog | COBOL | MPI | OSGi | QN
 
 SH | Asm | C / C++ | STL? | Pascal | TurboPascal | AT&T UNIX | X11 | IBM 370 family
 
-== 1989 - 1992: Amateur Programmer, Allentown PA
+== 1989 - 1992: Amateur Programmer, Allentown PA | Tinkering w/ Code
 (As a student @ Pennsylvania State University)
 
 - Recognized minor revenue writing code for collegiate programming competitions
@@ -243,7 +254,7 @@ SH | Asm | C / C++ | Basic | Pascal | AmigaOS | AT&T UNIX
 
 BASIC | ATARI | AT&T UNIX | SH | GNU C / C++
 
-== 2008 - Present: NPO Antonation, Ukraine, USA
+== 2008 - Present: NPO Antonation, Ukraine, USA | Charity Work
 
 - _Prepare gifted children for https://icpc.global/[the collegiate programming life^]_
 - Nonprofit activities in support of Ukraine
