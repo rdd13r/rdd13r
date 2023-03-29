@@ -32,6 +32,13 @@ a| *_Full Stack Developer_*
 a| *_Transformation Coach_*
 |===
 
+* Player-coach: architecture + development team coaching | Human Factors / Organisation Development
+* Business Domain Discovery and Modeling | https://www.eventstorming.com/[EventStorming^], https://www.opengroup.org/archimate-forum/archimate-overview[ArchiMate(R)^], https://en.wikipedia.org/wiki/Domain-driven_design[DDD^]
+* Platform and Solution Architecture | https://martinfowler.com/articles/201701-event-driven.html[Event-Driven Architecture^]
+* Shift-Left Implementation | *GoF*, *SOLID*, GRASP, *XP*, *DDD*; *BDD*; *TDD*
+
+#All leadership is executed hands-on.#
+
 '''
 
 https://kotlinlang.org/lp/mobile/[Kotlin KMM^] |
@@ -218,7 +225,7 @@ Spring Framework 3 | Spring Data JPA | Cucumber | Gradle | VMware ESX
 OSGi | Java | Scala | Groovy | Python | Perl | GNU C++ | STL | Linux |
 Spring Framework | Spring Data JPA | Struts | Maven | Gradle | VMware ESX
 
-== 2000 - 2005: MassivelyParallel, (MPC) Ft. Bragg, NC | Weapon Systems Development
+== 2000 - 2005: MassivelyParallel, (MPC) Ft. Bragg, NC | Weapons Systems Development
 (Acquired and merged by competitor in 2005)
 
 - Together with world-class software engineering colleagues designed and implemented distributed information systems
