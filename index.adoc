@@ -10,10 +10,6 @@ v3.0.2, Thursday March 23 2023: incremental.
 :toc-title: Employment History
 :keywords: resume
 :imagesdir: ./assets/img
-// :iconsdir: ./assets/icn
-:stylesdir: ./assets/css
-// :scriptsdir: ./assets/js
-:stylesheet: rdd13r.css
 :tip-caption: 💡️
 :note-caption: ℹ️
 :important-caption: ❗
@@ -37,11 +33,10 @@ a| *_Full Stack Developer_*
 a| *_Transformation Coach_*
 |===
 
-[height=0.5]
-* Player-coach multidiscipline team coaching | https://www.apa.org/education-career/guide/subfields/human-factors[HF^] / https://www.td.org/talent-development-glossary-terms/what-is-organization-development[OD^] / https://en.wikipedia.org/wiki/Digital_transformation[DX^]
-* Domain Discovery + Modeling | https://www.eventstorming.com/[EventStorming^], https://www.opengroup.org/archimate-forum/archimate-overview[ArchiMate(R)^], https://en.wikipedia.org/wiki/Domain-driven_design[DDD^]
-* Platform and Solution Architecture | https://martinfowler.com/articles/201701-event-driven.html[Event-Driven Architecture^]
-* Shift-Left Implementation | *GoF*, *SOLID*, GRASP, *XP*, *DDD*; *BDD*; *TDD*
+- Player-coach multidiscipline team coaching | https://www.apa.org/education-career/guide/subfields/human-factors[HF^] / https://www.td.org/talent-development-glossary-terms/what-is-organization-development[OD^] / https://en.wikipedia.org/wiki/Digital_transformation[DX^]
+- Domain Discovery + Modeling | https://www.eventstorming.com/[EventStorming^], https://www.opengroup.org/archimate-forum/archimate-overview[ArchiMate(R)^], https://en.wikipedia.org/wiki/Domain-driven_design[DDD^]
+- Platform and Solution Architecture | https://martinfowler.com/articles/201701-event-driven.html[Event-Driven Architecture^]
+- Shift-Left Implementation | *GoF*, *SOLID*, GRASP, *XP*, *DDD*; *BDD*; *TDD*
 
 #All leadership is executed *_hands-on_*.#
 
