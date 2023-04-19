@@ -117,73 +117,76 @@ Received CIO Direct Line Award for leading a combined team of over 100 contribut
 
 == 2011 - 2012: Xybion Corporation, Philadelphia, PA | Enterprise Product Development
 
-- Designed and implemented distributed content federation platform
-- Established a modern software company values, policies, and infrastructure
-- Attempted to motivate, modernise, and educate an offshore subsidiary
+* Designed and implemented a distributed content federation platform
+* Established modern software company values, policies, and infrastructure
+* Attempted to motivate, modernize, and educate an offshore subsidiary
 
-_Dozens of **Content Management Frameworks**_ | jBPM | Drools | JBoss |
-Atlassian Suite | Jenkins | Puppet | Chef | Ansible | BASH | KSH |
-OSGi | Java | Scala | Groovy | Python | Ruby |
-Spring Framework 3 | Spring Data JPA | Cucumber | Gradle | VMware ESX
+Technologies: Dozens of Content Management Frameworks, jBPM, Drools, JBoss, Atlassian Suite, Jenkins, Puppet, Chef, Ansible, BASH, KSH, OSGi, Java, Scala, Groovy, Python, Ruby, Spring Framework 3, Spring Data JPA, Cucumber, Gradle, VMware ESX
 
 == 2006 - 2011: Glemser Technologies, Bethlehem, PA | Enterprise ECM Consulting
 
-- Together with world-class software engineering colleagues designed and implemented custom content management platforms *for major pharma*, life sciences companies governed by https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application[FDA Title 21 CFR Part 11]
-- Research and business process automation through custom enterprise software
+* Collaborated with world-class software engineering colleagues to design and implement custom content management platforms for major pharma and life sciences companies, governed by FDA Title 21 CFR Part 11
+* Conducted research and automated business processes through custom enterprise software
 
-**EMC Documentum** | JBoss | CI/CD | Jenkins |
-OSGi | Java | Scala | Groovy | Python | Perl | GNU C++ | STL | Linux |
-Spring Framework | Spring Data JPA | Struts | Maven | Gradle | VMware ESX
+Technologies: EMC Documentum, JBoss, CI/CD, Jenkins, OSGi, Java, Scala, Groovy, Python, Perl, GNU C++, STL, Linux, Spring Framework, Spring Data JPA, Struts, Maven, Gradle, VMware ESX
 
-== 2000 - 2005: MassivelyParallel, (MPC) Ft. Bragg, NC | Weapons Systems Software Development
-(Acquired and merged by competitor in 2005)
+== 2000 - 2005: MassivelyParallel (MPC), Ft. Bragg, NC | Weapons Systems Software Development
+(Company no longer exists; Acquired and merged by a subsidiary of CSC Corporation in 2005; Part owner)
 
-- Together with world-class software engineering colleagues designed and implemented distributed information systems
-- All platforms governed by https://www.opengroup.org/togaf[TOGAF] and https://dodcio.defense.gov/library/dod-architecture-framework/[DoDAF]
+* Collaborated with world-class software engineering colleagues to design and implement distributed information systems
+* All platforms governed by TOGAF and DoDAF
 
-Asm | C / C++ | STL | Obj.C | NeXTSTEP | Lisp | Prolog | COBOL | MPI | OSGi | QNX | SUN UNIX | SGI Origin AIX | BSD | Linux | Beowulf Cluster
+Technologies: Asm, C/C++, STL, Obj.C, NeXTSTEP, Lisp, Prolog, COBOL, MPI, OSGi, QNX, SUN UNIX, SGI Origin AIX, BSD, Linux, Beowulf Cluster
 
-== 1997 - 2000: US Army, (20th EN BDE) Ft. Bragg, NC | Paratrooper: Shooting, Running, Digging
+== 1997 - 2000: US Army (20th EN BDE), Ft. Bragg, NC | Paratrooper: Shooting, Running, Digging
 
-- Defended democracy as an Airborne Combat Engineer, Regular Army
+- Proudly defended democracy as an Airborne Combat Engineer in the Regular Army, embodying the spirit of a true Viking descendant
 
 == 1992 - 1997: Software Engineer, Allentown, PA | Coding Daemons
-(As an undocumented immigrant pending political asylum.)
+(As an undocumented immigrant from the Soviet Union, pending political asylum.)
 
-- Implemented UNIX daemons for mainframe business processes
-- Implemented devices drivers, bridges, relays, message channels
-- Implemented systems and platforms test software, including penetration
-- 1992 - implemented first commercial software, messaging channel for PDCD
-- (1997 - political asylum / adjustment of status / legalization)
-- Earned a college degree while working in the destined field of calling
+- Overcame challenges as an undocumented immigrant, seizing opportunities to work in software and coding while awaiting political asylum
+- Implemented UNIX daemons for mainframe business processes, device drivers, bridges, relays, and message channels
+- Developed systems and platforms test software, including penetration testing
+- In 1992, created my first commercial software, a messaging channel for PDCD
+- Gained legal status in 1997 through political asylum/adjustment of status
+- Worked passionately in the field while earning a college degree, embracing every opportunity to learn and grow
 
 SH | Asm | C / C++ | STL? | Pascal | TurboPascal | AT&T UNIX | X11 | IBM 370 family
 
 == 1989 - 1992: Amateur Programmer, Allentown PA | Tinkering w/ Code
-(As a student @ Pennsylvania State University)
+(As a student at Pennsylvania State University)
 
-- Recognized minor revenue writing code for collegiate programming competitions
-- Recognized living revenue writing code for collegiate term assignments
+- Embraced the hacker culture, learning and collaborating with other coders in various settings, from New York City studios to converted Lehigh Valley farmhouses
+- Generated income by writing code for collegiate programming competitions and completing term assignments for fellow students
+- Took every opportunity to learn and grow as a programmer, paving the way for a successful career in software engineering
 
 SH | Asm | C / C++ | Basic | Pascal | AmigaOS | AT&T UNIX
 
-== 1986 - 1989: Soviet Informatics Competitions, Ukrainian SSR
+== 1986 - 1989: Soviet Informatics Competitions, Ukrainian SSR | Station for Young Engineers (Станція юних техніків)
+
+- Participated in a highly coveted and competitive engineering program, the Station for Young Engineers, honing programming and technical skills
+- Actively engaged in numerous collegiate programming competitions in informatics, demonstrating exceptional talent and commitment
+- Collaborated with fellow aspiring engineers, fostering a strong foundation in problem-solving and teamwork in the field of software development
 
 BASIC | ATARI | AT&T UNIX | SH | GNU C / C++
 
-== 2008 - Present: NPO Antonation, Ukraine, USA | Charity Work
+== 2008 - Present: NPO Antonation, Ukraine, USA | Empowering Future Generations Through Charity Work
 
-- _Prepare gifted children for https://icpc.global/[the collegiate programming life^]_
-- Nonprofit activities in support of Ukraine
+- Dedicated to preparing gifted children for a successful future in programming by providing access to resources, mentorship, and opportunities to participate in events such as the https://icpc.global/[International Collegiate Programming Contest^]
+- Organized and facilitated numerous summer robotics camps for teenagers and younger children, fostering a passion for technology and engineering
+- Actively engaged in nonprofit activities supporting the people of Ukraine, including partnering with various community organizations, churches, and foreign communities
+- In 2022, mobilized efforts to aid Ukrainians by organizing the packaging and distribution of combat medical supplies, involving the participation of many young volunteers and their families
 
 [discrete]
-== Why R!dd13r?
+== Why R!dd13r? A Little Mystery for the Curious Mind
 > Personal - don't read! 🤫
 
-I've included a story about how the _hacker culture_ really works and nature of our open interactions among ourselves. You'll know how I became Riddler, if you can find it here. 🤪 And there are other Easter eggs too...
+I've embedded a hidden tale within these pages, revealing the true essence of _hacker culture_ and the open interactions amongst our community. If you're as curious as I am, you might just uncover the story behind my Riddler moniker. 🤪 And while you're at it, keep an eye out for other Easter eggs scattered throughout...
 
 .The Law of Success
 [quote, Warren Buffett, www.forbes.com]
 ____
 In the world of business, the people who are most successful are those who are doing what they love.
 ____
+
