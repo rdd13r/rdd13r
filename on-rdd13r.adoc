@@ -3,7 +3,7 @@ layout: rdd13r
 ---
 = 🇺🇸Why R!dd13r? 💙💛
 R!dd13r <12781006+rdd13r@users.noreply.github.com>
-v1.0.0, Thursday March 23 2023: incremental.
+v2.0.0, Wednesday April 19 2023: regenerative.
 :description: ❤️Kotlin ❤️Scala ❤️Java ❤️
 :toc: preamble
 :toclevels: 1
