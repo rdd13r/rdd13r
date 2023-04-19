@@ -7,7 +7,7 @@ v1.0.0, Thursday March 23 2023: incremental.
 :description: ❤️Kotlin ❤️Scala ❤️Java ❤️
 :toc: preamble
 :toclevels: 1
-:toc-title: History of rdd13r
+:toc-title: The Enchanting Tale of rdd13r
 :keywords: resume
 :imagesdir: ./assets/img
 :tip-caption: 💡️
@@ -16,45 +16,17 @@ v1.0.0, Thursday March 23 2023: incremental.
 :caution-caption: 🔥
 :warning-caption: ⚠️
 
-
-A deeply personal piece that is long overdue for sharing. Why share? New people often ask me - "Why do they call you 'Riddler'?" Almost as if they mean to ask: "What have you done wrong?" This happens in each new setting. But the events that have transpired are a bit more ordinary:
+Gather round, friends, and listen to an enchanting tale whispered through the years. A story of a humble coder, bestowed with a mysterious nickname. It's a story of identity, camaraderie, and the whimsical world of hacker handles. Passed down from generation to generation, this tale takes place on the mystical continent of Scene.
 
 [sidebar]
 ****
-Hacker handles are the way for our community to recognize its accepted members. In 1992 on my first job my boss had trouble understanding my explanations for some UNIX daemon code that I'd written for her. I was an undocumented immigrant waiting for political asylum. She was the only one willing to employ me for coding. And, I'd only spoken English for about a couple of years back then. Sometimes my wonderful friend John would step in and help me convey my message to her. She would say that my code comments were like riddles. Eventually in his stroke of a genius John came up with 'Riddler,' and it stuck like stink on $#!^.
+Once upon a time, in the magical land of UNIX daemons and cryptic code, a young immigrant coder found himself in a strange new world. His boss, kind but perplexed, tried to understand the riddle-like comments within the code he wrote. Aided by his trusty friend John, our hero tried to explain his creations, but the language barrier proved to be a challenge.
 
-When I learned who Riddler is I got very upset. Riddler was a loser super-villain in my mind. And I was distraught, like most hackers typically are at young age, I wanted to be a superhero instead. Riddler could not keep commitments or relationships, he's full of empty grandeur and arrogance, inflated ego, insecurity, and he's a psychopath - yuck! I'm generally the opposite. Only things we have in common are: love for puzzles and challenges, tenacity, color green, and love for discovery and knowledge. But, I understood how my community works and I reluctantly accepted the handle. In a way, it was funny. Next, I spent some time improving my English and getting some clarity into my expressions, and most importantly into my _self-documenting code_. I needed to shake my Riddler off, though. But the handle didn't move.
+One fateful day, John, inspired by the riddles, christened the coder 'Riddler,' and so the legend was born. Though our hero was initially dismayed by the name, which he associated with a notorious super-villain, he soon learned to embrace the handle. After all, they did share a love for puzzles, challenges, and the color green.
 
-Sometime later I was happy to forget about the handle which resurfaced only occasionally in the oddest of settings. Then I joined the Army in 1997. I then thought that that'd give me some continuity break from the clicks that know me. Later on when I'd come back to coding after my long and glorious military career people would surely forget about 'Riddler'. But they didn't forget! It kept coming about.
+Time passed, and our protagonist thought the Riddler persona would fade into the mists of memory. He joined the Army, seeking new adventures and believing that his hacker friends would forget the handle. But fate had other plans. Riddler's name lived on, whispered in the halls of companies and echoed in the tales of his exploits.
 
-Much, much later in 2012 I took over a challenge of a massive API-Driven platform creation effort at Deutsche Bank. New people, my first big business employment - not a consultancy or a startup for a change - who'd know?! And I thought - "all clear!", and for a while, or so, it seemed so. We were the most innovative team in the banking industry, a real click of hackers adopting things like containers and Kubernetes right off the press, still hot and unknown, and nobody called me Riddler.
+Years later, our hero found himself in the prestigious halls of Deutsche Bank, surrounded by a new clique of hackers. He believed the name Riddler had been left far behind, but the winds of fate can be unpredictable. One day, during a heated conversation, his boss uttered the nickname, rekindling the legend of the Riddler once more.
 
-Yet one day in the fall of 2015 when I was explaining to my boss, Tony D., how behavior-centric API pods are to be deployed in an API-driven platforms running Active-Active High Availability, he said: "You piss me off with all that technical mambo-jumbo ... _Riddler_! Can't you just explain things *_normally_*?!" And I was hit by a ton of bricks. You see, it's a _[.underline]#key trait# of a real hacker_ to be able to explain anything in plain English so that even a child can understand - otherwise, one has shown to not understand the technical matter himself. And now I was looking at Tony D., _standing in full stupor_ like I was standing before Suzan, my first boss, some 20 years ago...
-
-Tony never had any trouble understanding our technical speak in its most condensed form before. Every communication was fast and efficient. He fit well with the hacker culture: his base emotion of "Just Get it Done!" resonates perfectly with the hackers he's collected here. He was our Godfather of sorts. Also, nobody ever said the word 'Riddler' at DB before. Besides our large team, over a hundred souls, the bank's culture is soft, mushy, and cordial. Others were bewildered of how openly we treated each other in our own team. Also, Kubernetes, v1.0 or 1.1 back then, was new to ... well, everywhere. 'New' was never an issue with Tony. Yet now I have done something wrong. Was it the word "pod?"
-
-At the time Tony has first pronounced my handle in the open and in such an unflattering context we were also in the presence of two other hackers on my team, my closest contributors and friends: "Marquis.De-CMOD" (*_marq_*, and his given name is Mark) - someone who knows absolutely everything about the internals of the IBM CMOD engine; and "Shebang" (*_\#!_*) - a scripting genius owning everything that starts with a '#!'. _Marq_ said: "Oh, he didn't like that, Tony." And then, _Shebang_ to me: "But you were always Riddler to us."
-
-We were a close-knit team, like a family. I loved my teammates and respected each one dearly - each one hand-picked by Tony at competitions and hackathons. Everyone was better than yours truly, their lead. There was never any negativity amid us. So, 'Riddler' was always there, and it was honorable.
-
-I have wholeheartedly accepted my handle right there and then. Since then, I was regularly referred to in that way, even during our frequent poker games as a team, and casually around the centre. Eventually, some people at the centre didn't even know my real name anymore, especially the contractors who we had hundreds of come and go regularly. Apparently, 'Riddler' was more appealing to my colleagues than my given name. The Centre was becoming the real _hacker scene_ for other people too. For example, #! was always #!. And it was true for many other people as well.
-
-Today I have my son (13) and his friends who I code with. And these boys silently remind me to always be clear and precise! Oh, and did I tell you that my spouse, *_asei-boss_*, is the standard of clarity, conciseness, and precision around here? The other guy is "The Riddler". And I am R!dd13r (rd13r - GPG key ID: DBF9F2CDB143ACEE).
+Our hero realized that the name was not a burden, but a symbol of camaraderie and a testament to his journey. From that day forward, he wore the name R!dd13r with pride, and the enchanted tale of the Riddler lived on, forever woven into the tapestry of hacker lore.
 ****
-
-[IMPORTANT]
-.Handles can only be given
-====
-Hacker handles cannot be taken. They can only be given by a group to an individual or another group. +
-Otherwise, we say: _"the one who calls himself <something>"_ and that is frowned upon. +
-When a handle is given to a person it needs not be liked by that person, nobody cares, but can only be accepted or not. When the handle is accepted the community recognizes this event as a fact and will allow the hacker sign with the certificate issued by the click to that handle leeted by the recipient.
-====
-
-[IMPORTANT]
-.https://simple.wikipedia.org/wiki/Leet[Leet] (l33t) is acceptable, but...
-====
-https://simple.wikipedia.org/wiki/Leet[Leet] is the practice of replacing letters with numbers, symbols, or code. It's a controversial topic on the scene because a group of _http://catb.org/jargon/html/crackers.html[unrespectables]_ has abused it in the past. But then today even the word 'scene' is finitely stolen by crackers. The original http://catb.org/jargon/html/speech-style.html[speech style] is deprecated through the crackerdom move of BBS -> IRC -> Tor and diffusion between hackers and these groups. +
-In addition, the great American Hacker Culture of MIT is now essentially dead in the USA where the http://catb.org/jargon/html/D/droid.html[cheap imported cogs and tools] are preferred to competent engineers. The center of the world's hackerdom [.underline]#did not move to Stockholm# as most have predicted in the late 90s but to https://en.wikipedia.org/wiki/Prague[Prague], where world's most gifted hackers live today and where the most competent companies have moved to over the last decade; and with this move a great blend of hacker culture has taken place mixing sentiments and creating new norms. +
-Consequently, leeting is not only acceptable but also expected. +
-There also are practical reasons for doing so, like colliding handles on different community websites when someone else has a similar handle. I too reluctantly leet my handle for that last reason.
-====
