@@ -98,7 +98,7 @@ ___
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua "Stand with Ukraine")
 
 
-## The __GitHub__ Way:
+## The mandatory __GitHub__ Way:
 
 - 🔭 I’m currently working on:
   - creating a masterclass on DDD & Event-Driven Architecture,
@@ -117,7 +117,10 @@ ___
 - 📫  How to reach me:
   - write to [contact@asei.systems](mailto:contact@asei.systems)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: _I am bilingual in **English** and **Ukrainian**._
+- ⚡ Fun facts:
+  - _I am bilingual in **English** and **Ukrainian**._
+  - _I disliked my hacker handle for decades._
+  - I believe that children are brighter than adults because they're less biased.
 
 ____
 
