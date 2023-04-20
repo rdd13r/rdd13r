@@ -1,20 +1,51 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua "Stand with Ukraine")
-
+[//]: # (v.2.0.1)
 
 #  🌟 Greetings, Adventurer!
 
-My friends know me as [R!dd13r](https://rdd13r.github.io/ "R!dd13r - <rdd13r>"). Allow me to unveil the enigma: I am a digital artisan, crafting disruptive enterprise software, nurturing minds, and breathing life into code...
+My friends know me as [R!dd13r](https://rdd13r.github.io/ "R!dd13r - <rdd13r>"), let me clear the fiddle,  
+A digital artisan, unraveled, yet opposite to brittle.  
+Crafting disruptive software, nurturing minds, in code I wade,  
+Among a race of my silent visionary makers,  
+  for the life and not for the takers,  
+  in shadows our LOLs we parade.
+
 
 <details>
-<summary>A Whispered Tale...</summary>
+<summary>A Shadow-whispered Tale...</summary>
 
-In a world where few dare to read these scrolls, my tale weaves through whispered praises, as clients sing of my feats. A traveler of lands, sharing wisdom and orchestrating grand gatherings, my heart remains steadfast, enriching lives through the mystical art of coding.
+In a world where few dare to peek [_at these scrolls_](https://github.com/trending "Trending: See what the GitHub community is most excited about today."),  
+My tale weaves through whispered praises and cracker trolls.  
+A digital nomad, seeking wisdom among peers,  
+Gathering bright minds, exploring a new frontier.  
 
-An **_American_** software engineer and [entrepreneur](https://www.asei.systems/our-team "Advanced Software Enterprises, Inc. - Let us nurture your Dream Team!"), I ventured into high-stakes realms, guiding dream teams to greatness. My path, a journey through _shared source_, cherishes the enchanting [Kotlin ecosystem](https://kotlinlang.org/ "A modern programming language that makes developers happier") and the loyal, functional companion, _[Scala](https://www.scala-lang.org/ "“that works” ― Martin Odersky, Programming in Scala")_.
+My heart is steadfast, enriching lives through code art,  
+A passion for magic, in programming, I impart.  
 
-With 30 years as an **[<big>_MIT hacker_</big>](https://handbook.mit.edu/hacking "Hacking is about learning.")**, I hold dear the vast, enigmatic, and influential culture that fuels my passions. Entranced by Uncle [Bob](https://en.wikipedia.org/wiki/Robert_C._Martin "Robert C. Martin")'s [Clean Code](https://a.co/d/7fnmEdq "Amazon link to the Clean Code book"), [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck "Kent documented hacker activities, culture, norms, tools, and methods")'s [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming "Extreme Programming was a good capture of our culture"), and the [Agile Manifesto](https://agilemanifesto.org/ "The declaration of Agile Manifesto"), I find delight in spirited conversations.
+An **_American_** software engineer,  
+An [entrepreneur](https://www.asei.systems/our-team "Advanced Software Enterprises, Inc. - Let us nurture your Dream Team!") so keen,  
+Taking people to lands of no-fear,  
+Guiding dream teams unseen.  
 
-_The most enchanting part of my journey is empowering others to become thriving, prosperous programmers._ "Give before you get" is the essence of our creed.
+On an epic journey together to _elegant sources_,  
+A path of competence we humbly embrace,  
+Crafting spells with [Kotlin](https://kotlinlang.org/ "A modern programming language that makes developers happier") at [codeforces](https://codeforces.com/kotlin "Kotlin Heroes"),  
+Making magic with _[Scala's](https://www.scala-lang.org/ "“that works” ― Martin Odersky, Programming in Scala") functional grace_.  
+
+**[<big>_Teams of hackers_</big>](https://handbook.mit.edu/hacking "Hacking is about learning.")** for decades I train,  
+Embracing culture so vast, enigmatic, untamed.  
+Uncle [Bob](https://en.wikipedia.org/wiki/Robert_C._Martin "Robert C. Martin")'s [Clean Code](https://a.co/d/7fnmEdq "Amazon link to the Clean Code book") inspires us to strive,  
+[Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck "Kent documented hacker activities, culture, norms, tools, and methods")'s [XP](https://en.wikipedia.org/wiki/Extreme_programming "Extreme Programming was a good capture of our culture") keeps our passion alive.  
+
+The [Agile Manifesto](https://agilemanifesto.org/ "The declaration of Agile Manifesto") we hold dear,  
+In spirited conversations we find cheer.  
+[Maker culture](https://en.wikipedia.org/wiki/Maker_culture "Maker culture side of Hacker Culture") our passions it fuels,  
+Replacing Cogs with well coded tools.
+
+The most enchanting part of this quest,  
+Empowering others to be their best.  
+Thriving, prosperous programmers we mold,  
+"**_Give before you get_**," our creed, so bold.
 
 </details>
 
