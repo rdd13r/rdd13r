@@ -3,13 +3,12 @@
 
 #  🌟 Greetings, Adventurer!
 
-My friends know me as [R!dd13r](https://rdd13r.github.io/ "R!dd13r - <rdd13r>"), let me clear the fiddle,  
-A digital artisan, unraveled, yet opposite to brittle.  
-Crafting disruptive software, nurturing minds, in code I wade,  
-Among a race of my silent visionary makers,  
+My friends say I'm [R!dd13r](https://rdd13r.github.io/ "R!dd13r - <rdd13r>"), let me clear the fiddle,  
+A digital artisan, agent of chaos, yet mind-strong not brittle.  
+Crafting market shakers, nurturing minds, in code I wade,  
+Among my silent race of visionary makers,  
   for the life and not for the takers,  
   in shadows our LOLs we parade.
-
 
 <details>
 <summary>A Shadow-whispered Tale...</summary>
@@ -17,9 +16,9 @@ Among a race of my silent visionary makers,
 In a world where few dare to peek [_at these scrolls_](https://github.com/trending "Trending: See what the GitHub community is most excited about today."),  
 My tale weaves through whispered praises and cracker trolls.  
 A digital nomad, seeking wisdom among peers,  
-Gathering bright minds, exploring a new frontier.  
+Gathering bright minds, exploring the new frontier.  
 
-My heart is steadfast, enriching lives through code art,  
+> My heart is steadfast, enriching lives through code art,  
 A passion for magic, in programming, I impart.  
 
 An **_American_** software engineer,  
@@ -40,7 +39,7 @@ Uncle [Bob](https://en.wikipedia.org/wiki/Robert_C._Martin "Robert C. Martin")'s
 The [Agile Manifesto](https://agilemanifesto.org/ "The declaration of Agile Manifesto") we hold dear,  
 In spirited conversations we find cheer.  
 [Maker culture](https://en.wikipedia.org/wiki/Maker_culture "Maker culture side of Hacker Culture") our passions it fuels,  
-Replacing Cogs with well coded tools.
+Replacing Cogs with well-coded tools.
 
 The most enchanting part of this quest,  
 Empowering others to be their best.  
