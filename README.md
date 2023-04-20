@@ -39,31 +39,33 @@ Uncle [Bob](https://en.wikipedia.org/wiki/Robert_C._Martin "Robert C. Martin")'s
 The [Agile Manifesto](https://agilemanifesto.org/ "The declaration of Agile Manifesto") we hold dear,  
 In spirited conversations we find cheer.  
 [Maker culture](https://en.wikipedia.org/wiki/Maker_culture "Maker culture side of Hacker Culture") our passions it fuels,  
-Replacing Cogs with well-coded tools.
+Replacing [_Cogs_](https://www.asei.systems/hacker-leadership#special-cogs "A cog is random #3") with well-coded tools.
 
 The most enchanting part of this quest,  
 Empowering others to be their best.  
 Thriving, prosperous programmers we mold,  
 "**_Give before you get_**," our creed, so bold.
-
 </details>
 
-Are you still with me?
 
-> If you seek a dream team to nurture or an exceptional application to build, present a copy of my [résumé](https://rdd13r.github.io/rdd13r/) to your boss so that we can embark on an adventure together.
+Greetings, fellow code explorer!
+
+> Delve into [my engineering chronicles](https://rdd13r.github.io/rdd13r/) and uncover my experience. Stealth startup work remains undisclosed, but we may have crossed paths in the realm of traditional ventures.
+
 
 [:arrow_right:&nbsp;&nbsp;&nbsp;💙💛&nbsp;&nbsp;&nbsp;:arrow_left:](https://razomforukraine.org/)
+
 
 <details>
 <summary>A Family of Dreamers...</summary>
 
-An Army :military_helmet: veteran and first-generation immigrant, I hail from Soviet Ukraine and embraced my cherished American identity before the Berlin Wall fell. True Americans, my spouse and I co-pilot our boutique software engineering venture, where she reigns as _ase-boss_. We champion **competence**, _performance, diversity, and compassion_ - the values of American hackers.
+As an Army :military_helmet: veteran and first-generation immigrant from Soviet Ukraine, I embraced my cherished American identity before the fall of the Berlin Wall. My spouse, hailing from independent Ukraine, and I co-pilot our boutique software engineering venture. We champion **competence**, _performance, diversity, and compassion_ - the modern values of American hackers.
 
-Our family's story unfolds in charming North Carolina, where our lives intertwine with our open-hearted business, customers, friends, and community. Our 13-year-old son, [Captain Lugaru](https://github.com/CaptainLugaru), revels in DnD, Manga, and Minecraft mods. His newfound role interning for his mother leads to the creation of his YouTube channel, [Hacker Tales](https://www.youtube.com/@hackertales9227). Captain's fascination with [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture) brings us all together at hackathons and click gatherings, where DnD nights have become a beloved family tradition.
+Our family's story unfolds in picturesque North Carolina, where our lives harmoniously intertwine with our business, customers, friends, and community. Our 13-year-old son, [Captain Lugaru](https://github.com/CaptainLugaru), delights in DnD, Manga, and Minecraft mods. As an intern for his mother, he establishes his YouTube channel, [Hacker Tales](https://www.youtube.com/@hackertales9227), where he invites family and friends to participate. Captain's fascination with [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture) unites us at hackathons and gatherings, where DnD nights evolve into a cherished family tradition.
 
-Amidst our bustling lives, I strive to help people learn, publish OSS DDD archetypes, support those affected by the war in Ukraine, and contribute to our American community. Our family recently welcomed a newborn daughter, whose angelic presence, though adding tasks to our family Kanban board in the kitchen, fills our hearts with joy. Her arrival reminds us that good things come to good people.
+Amidst our vibrant lives, I'm committed to helping people learn, publishing game mod code, OSS DDD archetypes, supporting those affected by the war in Ukraine, fostering children's love for coding, and contributing to our American community. Our family recently welcomed a newborn daughter, whose angelic presence, though adding tasks to our family Kanban board, for everyone, fills our hearts with boundless joy. Her arrival reminds us that good things come to good people.
 
-I beam with pride as Captain Lugaru blossoms into a wise and compassionate soul. As we navigate this enchanting journey together—family, friends, and business—Captain is learning the ways of life. One day, watching a mature company struggle with technology, he ponders these words:
+I beam with pride as Captain Lugaru blossoms into a wise and compassionate soul. As we navigate this enchanting journey together — family, friends, and business — Captain is learning the ways of life. One day, observing a mature company and a difficult customer struggle with technology, he ponders these words:
 
 > Only enemies speak the truth.
 >
@@ -73,7 +75,7 @@ I beam with pride as Captain Lugaru blossoms into a wise and compassionate soul.
 
 -- Stephen King
 
-Curious, he asks, "Daddy, if our conservative customers always hide their true state of affairs, won't they see us as enemies because we're always open and truthful, like in the quote?" I respond, "Son, as long as we're true to our values, we'll be fine. We can still help such customers even if they see us as outsiders." And with that, I share an old Georgian toast and wise tale:
+Curious, he asks, "Daddy, if our conservative customers always hide their true state of affairs, won't they see us as enemies because we're always open and truthful, like in the quote?" I respond, "Son, as long as we're true to our values, we'll be fine. We can still help such customers even if they see us as outsiders." And with that, I share an old Georgian toast and wise tale, my way:
 
 A young sparrow, unprepared for migration, ignores the change of time and reason. This poor obsoleting soul faces a harsh winter. Near death, he is warmed by a passing cow dropping a pie over him. Regaining strength, he sings joyfully. But a farm cat hears him, pulls him from the dung, and eats him. The moral:
 
@@ -81,7 +83,11 @@ A young sparrow, unprepared for migration, ignores the change of time and reason
 2. Not everyone who gets you out of poop is your friend.
 3. When life grants you a precious second chance: embrace silence, gather your thoughts, listen, learn, assess, devise a strategy, and always remain objective, doing the right thing. Together, we can help the laggard sparrows on their journey to safety should they accept our help.
 
+For Captain, this lesson holds a special meaning. He lost his mother when he was five. Now, he's a cherished mama's boy who learned to value people early in life. I wish I had that maturity when I was growing up - everyone who depends on me would be even happier today.
+
 Now, I must go and aid wise Captain with his homework.
+
+_**Take care of yourself and your loved ones!**_
 </details>
 
 
