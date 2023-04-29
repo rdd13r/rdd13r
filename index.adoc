@@ -182,7 +182,7 @@ BASIC | ATARI | AT&T UNIX | SH | GNU C / C++
 == Why R!dd13r? A Little Mystery for the Curious Mind
 > Personal - don't read! 🤫
 
-I've embedded a hidden tale within these pages, revealing the true essence of _hacker culture_ and the open interactions amongst our community. If you're as curious as I am, you might just uncover the story behind my Riddler moniker. 🤪 And while you're at it, keep an eye out for other Easter eggs scattered throughout...
+I've embedded a hidden tale within these scrolls, revealing the true essence of _hacker culture_ and the open interactions amongst our community. If you're as curious as I am, you might just uncover the story behind my Riddler moniker. 🤪 And while you're at it, keep an eye out for other Easter eggs scattered throughout...
 
 .The Law of Success
 [quote, Warren Buffett, www.forbes.com]
