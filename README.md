@@ -1,5 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua "Stand with Ukraine")
-[//]: # (v.2.0.1)
+[//]: # (v.2.0.2)
+<a rel="me" href="https://me.dm/@rdd13r">Mastodon</a>
 
 #  🌟 Greetings, Adventurer!
 
