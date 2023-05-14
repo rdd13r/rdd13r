@@ -1,10 +1,9 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua "Stand with Ukraine")
-[//]: # (v.2.0.2)
-<a rel="me" href="https://me.dm/@rdd13r">Mastodon</a>
+[//]: # (v.2.0.3)
 
 #  🌟 Greetings, Adventurer!
 
-My friends say I'm [R!dd13r](https://rdd13r.github.io/ "R!dd13r - <rdd13r>"), let me clear the fiddle,  
+My friends call me [R!dd13r](https://rdd13r.github.io/ "R!dd13r - <rdd13r>"), let me clear the fiddle,  
 A digital artisan, agent of chaos, yet mind-strong not brittle.  
 Crafting market shakers, nurturing minds, in code I wade,  
 Among my silent race of visionary makers,  
@@ -51,7 +50,7 @@ Thriving, prosperous programmers we mold,
 
 Greetings, fellow code explorer!
 
-> Delve into [my engineering chronicles](https://rdd13r.github.io/rdd13r/) and uncover my experience. Stealth startup work remains undisclosed, but we may have crossed paths in the realm of traditional ventures.
+> Delve into [my engineering chronicles](https://rdd13r.github.io/rdd13r/) and uncover my experience. Stealth startup work remains largely undisclosed for obvious reasons, which is a bummer because so much of my time and some of my best work dwells in the shadows of startups. But perhaps we have crossed paths in the realm of traditional ventures.
 
 
 [:arrow_right:&nbsp;&nbsp;&nbsp;💙💛&nbsp;&nbsp;&nbsp;:arrow_left:](https://razomforukraine.org/)
