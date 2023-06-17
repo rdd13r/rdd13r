@@ -16,7 +16,7 @@ v3.0.0, Wednesday April 19 2023: regenerative.
 :table-caption!:
 :figure-caption!:
 
-Email mailto:contact@asei.systems[contact@asei.systems] to request a traditional resume in pdf.
+Email mailto:contact@asei.systems[contact@asei.systems] to request a traditional résumé in pdf.
 
 [#img-ukr]
 [link=https://stand-with-ukraine.pp.ua]
@@ -33,7 +33,7 @@ Focused on value creation. Exceptional experience in resolving distressed situat
 Possessing deep _hands-on technical expertise_, which is crucial for effectively leading business domain teams. Skilled in transforming chaos into engineering and elevating engineering to chaos engineering. Adhering to a strong moral compass and driven to succeed.
 | [#img-vkp]
 [link=https://www.linkedin.com/in/vadimkuhay/]
-image::https://rdd13r.github.io/rdd13r/assets/img/rdd13r.jpeg[R!dd13r]
+image::https://rdd13r.github.io/rdd13r/assets/img/dadar-school-medalion-compressed.jpg[R!dd13r]
 |===
 
 == Contact Cards
