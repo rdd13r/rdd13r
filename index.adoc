@@ -1,5 +1,3 @@
-// suppress inspection "AsciiDocHorizontalRule" for whole file
-// suppress inspection "StructuralWrap" for whole file
 ---
 layout: rdd13r
 ---
