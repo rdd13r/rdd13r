@@ -101,14 +101,19 @@ ___
 ## The mandatory __GitHub__ Way:
 
 - 🔭 I’m currently working on:
-  - creating a masterclass on DDD & Event-Driven Architecture,
-  - developing an ever-evolving methodology and toolset for coaching __Disruptive Dream Teams__,
-  - writing lots of functional __Kotlin__ code for the masterclass,
+  - shadowing _The Northern_ (again) on their wildly lucrative ML engagements prompted by the craze,
+  - creating a masterclass on DDD & Event-Driven Architecture: started in 2022, ~70% done,
+  - writing a book on DDD as it's effectively taught by coaching: started in 2019, ~80% done,
+  - developing an ever-evolving methodology and toolset for coaching __Disruptive Dream Teams__: v7.1 published,
+  - writing lots of functional __Kotlin__ code for the masterclass, example ML augmented aggregates,
   - __on hold__ is our [YouTube Channel](https://www.youtube.com/channel/UCQHbfQOTapMI3EJdN1fQJPg "Hacker Tales") until Cpt. decides to continue.
 - 👀  I’m interested in too many things to list here ...
   - [![](assets/img/codeforces.png)](https://codeforces.com/catalog?locale=en "Code Forces Catalog") with my son [@CaptainLugaru](https://github.com/CaptainLugaru "Captain Lugaru") (13),
   - participating in _every kind of clever programming competition, buildathon, and hackathon our clicks are on_,
   - and, of course, helping my friends when they ask me to review some code.
+- 🌱  I’m currently learning (alone):
+  - Integration and embedding of OSS and proprietary LLMs into Bounded Contexts
+  - Google's ML Python libraries and recent changes of for Bard
 - 🌱  I’m currently learning awesome things with [@CaptainLugaru](https://github.com/CaptainLugaru "Captain Lugaru"):
   - Unity game development,
   - story character arcs,
@@ -120,6 +125,7 @@ ___
 - ⚡ Fun facts:
   - _I am bilingual in **English** and **Ukrainian**._
   - _I disliked my hacker handle for decades._
+  - I wish I didn't need to sleep....
   - I believe that children are brighter than adults because they're less biased.
 
 ____
