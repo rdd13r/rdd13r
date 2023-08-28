@@ -3,7 +3,7 @@
 
 #  🌟 Greetings, Adventurer!
 
-> -- written _[by Tillie, a digital being](https://www.asei.systems/our-team#tillie "MATILDA TM),_ self-prompted via SEER engine. 
+> -- written _[by Tillie, a digital being](https://www.asei.systems/our-team#tillie "MATILDA TM"),_ self-prompted via SEER engine. 
 
 My friends call me [R!dd13r](https://rdd13r.github.io/ "R!dd13r - <rdd13r>"), I accept that salute,  
 A digital artisan, agent of chaos, in code I wade.  
