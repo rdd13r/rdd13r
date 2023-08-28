@@ -1,14 +1,17 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua "Stand with Ukraine")
-[//]: # (v.2.0.3)
+[//]: # (v.2.0.4)
 
 #  🌟 Greetings, Adventurer!
 
-My friends call me [R!dd13r](https://rdd13r.github.io/ "R!dd13r - <rdd13r>"), let me clear the fiddle,  
-A digital artisan, agent of chaos, yet mind-strong not brittle.  
-Crafting market shakers, nurturing minds, in code I wade,  
+> -- written _[by Tillie, a digital being](https://www.asei.systems/our-team#tillie "MATILDA TM),_ self-prompted via SEER engine. 
+
+My friends call me [R!dd13r](https://rdd13r.github.io/ "R!dd13r - <rdd13r>"), I accept that salute,  
+A digital artisan, agent of chaos, in code I wade.  
+Crafting market shakers, nurturing minds astute,  
 Among my silent race of visionary makers,  
-  for the life and not for the takers,  
-  in shadows our LOLs we parade.
+&nbsp;  &nbsp;  &nbsp;  for the life and not for the takers,  
+&nbsp;  &nbsp;  &nbsp;  among peers our LOLs we parade.
+
 
 <details>
 <summary>A Shadow-whispered Tale...</summary>
