@@ -31,9 +31,9 @@ ____
 
 *_How can I help you:_*
 
-- Attain your Digital Transformation goals predictably, on-time, and on-budget.
-- Breakdown your Monolith into elegant and resilient Distributed System.
-- Start your software team strong  so they don't slide back down again.
+✅ Attain your Digital Transformation goals predictably and on-budget. +
+✅ Breakdown your Monolith into resilient Distributed System. +
+✅ Start your software team strong, so they don't slide back down again.
 
 **Favored Technologies & Frameworks:**
 
@@ -78,25 +78,25 @@ Generated automatically by https://www.asei.systems/our-team#tillie[Tillie] (SEE
 
 == 2017—Present: Advanced Software Enterprises, Inc.
 
-- Digital Transformation
-- Solutions Architect
-- Product Development
-- Software Engineering
-- Startup Bootstrapping
+⭐️ Digital Transformation +
+⭐️ Solutions Architect +
+⭐️ Product Development +
+⭐️ Software Engineering +
+⭐️ Startup Bootstrapping
 
 == 2012–2017: Deutsche Bank Global Technology
 
-* dbECM Platform
-* Atlas
-* Equities BI
+⭐️ dbECM Platform +
+⭐️ Atlas +
+⭐️ Equities BI
 
 == 2011–2012: Xybion Corporation
 
-* XFIS
+⭐️ XFIS
 
 == 2006-2011: Glemser Technologies
 
-* Documentum Platforms
+⭐️ Big-Pharma Content Platforms
 
 == 1990-2005: C/C++ World
 
