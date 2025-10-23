@@ -40,3 +40,4 @@ Icon
 /Gemfile.lock
 /index.html
 /cv.html
+!index.html
