@@ -1,92 +1,75 @@
 # Vadim Kuhay (rdd13r)
 
-**The Consultant Who Predicted the AI Integration Crisis | Founder, Advanced Software Enterprises Inc**
+**Enterprise AI Recovery Architect | Founder, Advanced Software Enterprises Inc**
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua "Stand with Ukraine")
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-## About
+## The Prediction
 
-Enterprise architect and consultant specializing in AI integration failures and recovery. While everyone else was hyping AI in 2022-2023, I documented exactly why most enterprise implementations would fail. I was right.
+**July 2023:** I documented why 80% of enterprise AI initiatives would fail. Not because of AI—because of architecture.
 
-**Founder & Principal Consultant** at [Advanced Software Enterprises Inc](https://www.asei.systems/) - helping executives recover from failed AI implementations and build sustainable AI capabilities.
+**August 2025:** MIT proved me right at 95%.
 
-## Current Focus
+While vendors sold magic, I wrote about chaos. 
+[Read the original prediction →](https://mimis-gildi.github.io/riddle-me-this/adventures/2023/07/05/integrated-ai-evolution.html)
 
-**Business & Consulting:**
-- AI failure diagnosis and recovery consulting
-- Enterprise architecture assessments
-- Domain-driven design implementation
-- Executive coaching for technology initiatives
+## What I Do
 
-**Technical Work:**
-- AI integration architecture using Model Context Protocol (MCP)
-- Domain-driven design with bounded contexts
-- Event-driven architecture patterns
-- Machine learning augmented business aggregates
+**I map your exact next steps — from crisis to working AI in production.**
 
-## Expertise
+1. Put out the fire by knowing WHY;
+2. Recover your journey by knowing HOW;
+3. Fix your architecture — AI stays.
 
-**Architecture & Design:**
-- Domain Driven Design (DDD)
-- Event-Driven Architecture
-- Clean Architecture
-- Microservices & Anti-Corruption Layers
-- Model Context Protocol (MCP) for AI integration
+_30+ years building systems that survive their first users - and serve their last user well._
 
-**Technologies:**
-- **Languages:** Kotlin, Scala, Java, Python
-- **Frameworks:** Spring, Ktor, Quarkus
-- **Infrastructure:** Kafka, Kubernetes, Docker
-- **Cloud:** GCP, AWS, OpenShift
-- **AI/ML:** LLM integration, context management, ML-augmented systems
+**Current work:**
 
-**Methodologies:**
-- Extreme Programming (XP)
-- Test-Driven Development (TDD)
-- Behavior-Driven Development (BDD)
-- EventStorming facilitation
-- Team coaching and mentoring
+- Corporate AI recovery consulting;
+- Modernizing 25-year defense systems for AI/AO;
+- Building Model Context Protocol (MCP) integrations;
+- Designing and writing enterprise code daily since 1992.
 
-## Notable Work
+## Track Record Examples
 
-**AI Crisis Prediction (2023):** Published analysis predicting 80% AI project failure rate due to architectural chaos - documented specific failure patterns before they became widespread.
+- **11 enterprise transformations** (60% avg cost reduction);
+- **23+ startup bootstraps** across 5 markets;
+- **300+ engineers coached** (the scene champion model);
+- **50+ distributed systems** imagined, built, and fielded;
+- **99.99% uptime at scale** 2000 till present.
 
-**Enterprise Transformations:** 25+ years leading digital transformations for Fortune 500 companies including Fidelity Investments and Mutual of Omaha Insurance.
+## Most Used Technical Stack
 
-**Startup Architecture:** 23+ startup architecture implementations across multiple industries.
+1. **Architecture:** Domain-Driven Design, Event-Driven Architecture, Microservices, CQRS
+2. **Languages:** Kotlin, Scala, Java, Python, Go, Swift, ObjC, C++, C
+3. **Infrastructure:** Bare-metal, Kubernetes, AWS/GCP/Azure, Akka, Kafka, Spring Boot
+4. **AI/ML:** LLM integration, MCP, Keras/TensorFlow/JAX/PyTorch, Pandas, Scikit-learn
+5. **MLOps/MLInfa:** MATILDA (ASE), Google Vertex AI, MLFlow, Hugging Face Transformers
+6. **Practices:** XP (Extreme Programming), TDD, EventStorming, Clean Code/Architecture
 
-## Current Projects
+## Services
 
-- **Masterclass:** DDD & Event-Driven Architecture (73% complete)
-- **Book:** DDD as effectively taught by coaching (88% complete)
-- **Methodology:** Coaching framework for enterprise teams (v7.1 published)
-- **Community:** Contributing to [Gotham Village](https://github.com/Gotham-Village) projects
-- **Collaboration:** Working with [BitSpittle](https://github.com/BitSpittle) on [Kobweb](https://github.com/varabyte/kobweb)
+[Advanced Software Enterprises Inc](https://www.asei.systems/) helps executives recover from failed AI implementations:
 
-## Business Services
+* **\$997 Diagnostic:** 28-point assessment, 2 business days;
+* **\$15K to \$25K Assessment:** Complete architectural discovery, 2-3 weeks;
+* **\$50K to \$350K Recovery:** We execute the fix, 8-12 weeks.
 
-**[Advanced Software Enterprises Inc](https://www.asei.systems/)** provides:
-- AI failure recovery and architecture assessment
-- Enterprise transformation consulting
-- Domain-driven design implementation
-- Team coaching and mentoring
-- Architecture modernization
+## Projects
 
-**Specialization:** Helping executives recover from failed AI implementations while protecting their leadership reputation.
+- **Masterclass:** DDD & Event-Driven Architecture
+- **Book:** DDD as effectively taught by coaching
+- **Methodology:** Team coaching framework v7.1 published
+- **Community:** [Mímis Gildi](https://github.com/Mimis-Gildi) | [Gervi Héra Vitr](https://github.com/Gervi-Hera-Vitr) | [Gotham Village](https://github.com/Gotham-Village)
 
-## Education & Mentoring
+---
 
-Homeschooling and mentoring the next generation of software engineers, including my son [Captain Lugaru](https://github.com/CaptainLugaru), focusing on real-world project experience and enterprise-grade development practices.
+## Favorite Personal Activities
 
-## Contact
-
-**Professional:** [vadim@asei.systems](mailto:vadim@asei.systems)  
-**Personal:** [rIdd13r@pm.me](mailto:rIdd13r@pm.me)  
-**Website:** [asei.systems](https://www.asei.systems/)  
-**Profile:** [rdd13r.github.io](https://rdd13r.github.io/)
+Homeschooling and mentoring the next generation of engineers, including my son [Captain Lugaru](https://github.com/CaptainLugaru).
 
 ---
 
 *"Architecture is trust. Code is conversation. Velocity comes from clarity."*
 
-**Supporting Ukraine:** As a Ukrainian-American, I actively support Ukraine's defense through [Razom for Ukraine](https://razomforukraine.org/).
+**Supporting Ukraine:** Ukrainian-American supporting defense through [Razom for Ukraine](https://razomforukraine.org/).

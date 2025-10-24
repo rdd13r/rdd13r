@@ -19,7 +19,7 @@
             line-height: 1.6;
             color: #e6edf3;
             background: #0d1117;
-            padding: 20px;
+            padding: 10px;
         }
 
         .container {
@@ -31,16 +31,6 @@
             text-align: center;
             padding: 60px 20px 40px 20px;
             border-bottom: 1px solid #30363d;
-        }
-
-        .hero-photo {
-            width: 180px;
-            height: 180px;
-            border-radius: 50%;
-            margin: 0 auto 30px auto;
-            border: 4px solid #58a6ff;
-            display: block;
-            object-fit: cover;
         }
 
         .hero h1 {
@@ -63,30 +53,6 @@
             color: #c9d1d9;
             max-width: 800px;
             margin: 0 auto;
-        }
-
-        .crisis-banner {
-            background: linear-gradient(135deg, #da3633 0%, #8b1a1a 100%);
-            padding: 40px;
-            margin: 40px 0;
-            border-radius: 8px;
-            text-align: center;
-        }
-
-        .crisis-banner h2 {
-            font-size: 2.5em;
-            margin-bottom: 20px;
-        }
-
-        .crisis-banner .stat {
-            font-size: 4em;
-            font-weight: bold;
-            margin: 20px 0;
-        }
-
-        .crisis-banner p {
-            font-size: 1.2em;
-            margin: 10px 0;
         }
 
         .prediction {
@@ -112,10 +78,37 @@
         .prediction-quote {
             font-style: italic;
             color: #8b949e;
-            padding: 15px 0;
             border-left: 3px solid #58a6ff;
-            padding-left: 20px;
+            padding: 15px 0 15px 20px;
             margin: 20px 0;
+        }
+
+        .crisis-banner {
+            background: linear-gradient(135deg, #da3633 0%, #8b1a1a 100%);
+            padding: 10px 15px;
+            margin: 40px 0;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .crisis-banner h2 {
+            font-size: 2em;
+        }
+
+        .crisis-banner .stat {
+            font-size: 3em;
+            font-weight: bold;
+            margin: 0;
+        }
+
+        .crisis-banner p {
+            font-size: 1.1em;
+            margin: 8px 0;
+        }
+
+        .cta-immediate {
+            text-align: center;
+            margin: 30px 0;
         }
 
         .credentials {
@@ -150,8 +143,7 @@
         }
 
         .credential-card li {
-            padding: 8px 0;
-            padding-left: 20px;
+            padding: 8px 0 8px 20px;
             position: relative;
         }
 
@@ -163,7 +155,8 @@
         }
 
         .recovery-section {
-            background: linear-gradient(135deg, #1f6feb 0%, #0d419d 100%);
+            background: #161b22;
+            border: 1px solid #30363d;
             padding: 60px 40px;
             margin: 60px 0;
             border-radius: 8px;
@@ -173,6 +166,7 @@
         .recovery-section h2 {
             font-size: 2.5em;
             margin-bottom: 30px;
+            color: #58a6ff;
         }
 
         .recovery-grid {
@@ -183,14 +177,21 @@
         }
 
         .recovery-item {
-            background: rgba(255, 255, 255, 0.1);
+            background: #0d1117;
+            border: 1px solid #30363d;
             padding: 25px;
             border-radius: 8px;
+            transition: border-color 0.2s;
+        }
+
+        .recovery-item:hover {
+            border-color: #58a6ff;
         }
 
         .recovery-item h4 {
             margin-bottom: 15px;
             font-size: 1.3em;
+            color: #58a6ff;
         }
 
         .cta-buttons {
@@ -289,13 +290,12 @@
                 font-size: 2em;
             }
 
-            .hero-photo {
-                width: 150px;
-                height: 150px;
+            .crisis-banner .stat {
+                font-size: 2.5em;
             }
 
-            .crisis-banner .stat {
-                font-size: 3em;
+            .crisis-banner {
+                padding: 25px 20px;
             }
 
             .recovery-section {
@@ -307,20 +307,11 @@
 <body>
 <div class="container">
     <div class="hero">
-        <img src="https://rdd13r.github.io/rdd13r/dadar-school-medallion.png" alt="Vadim Kuhay" class="hero-photo">
         <h1>Vadim Kuhay</h1>
         <div class="subtitle">Enterprise AI Recovery Architect</div>
         <div class="tagline">
-            30+ years building systems that last. Now fixing the AI failures everyone else predicted would succeed.
+            30+ years building systems that last.<br>Now fixing the AI failures everyone else predicted would succeed.
         </div>
-    </div>
-
-    <div class="crisis-banner">
-        <h2>The AI Crisis Is Here</h2>
-        <div class="stat">95%</div>
-        <p><strong>MIT Research (August 2025):</strong> 95% of enterprise AI projects deliver ZERO ROI</p>
-        <p><strong>$40 billion</strong> wasted on failed AI initiatives</p>
-        <p><strong>The problem?</strong> Not the AI. The architecture.</p>
     </div>
 
     <div class="prediction">
@@ -333,9 +324,24 @@
         </div>
         <p>While vendors sold AI magic, I documented exactly why 80% would fail. MIT proved I was right at 95%.</p>
         <p>
-            <a href="https://mimis-gildi.github.io/riddle-me-this/adventures/2023/07/05/integrated-ai-evolution.html" style="color: #58a6ff;">Read the original
-                prediction →</a>
+            <a href="https://mimis-gildi.github.io/riddle-me-this/adventures/2023/07/05/integrated-ai-evolution.html"
+               target="_blank"
+               style="color: #58a6ff;">
+                Read the original prediction →
+            </a>
         </p>
+    </div>
+
+    <div class="crisis-banner">
+        <h2>The AI Crisis Is Here</h2>
+        <div class="stat">95%</div>
+        <p><strong>MIT Research (August 2025):</strong> 95% of enterprise AI projects deliver ZERO ROI</p>
+        <p><strong>$40 billion</strong> wasted on failed AI initiatives</p>
+        <p><strong>The problem?</strong> Not the AI. The architecture.</p>
+    </div>
+
+    <div class="cta-immediate">
+        <a href="https://www.asei.systems/diagnostic" class="btn btn-primary">Get $997 Diagnostic →</a>
     </div>
 
     <h2 style="text-align: center; margin: 60px 0 40px 0; font-size: 2.5em;">Why Companies Trust Me</h2>
@@ -347,31 +353,33 @@
                 <li><strong>11 enterprise transformations</strong> since 2017</li>
                 <li><strong>Average 60% operational cost reduction</strong></li>
                 <li><strong>23 startups</strong> across 5 markets</li>
-                <li><strong>200+ engineers</strong> coached</li>
+                <li><strong>300+ engineers</strong> coached</li>
                 <li>Billions of transactions handled</li>
-                <li>99.99% uptime at scale</li>
+                <li>99.99% uptime <strong>at scale</strong></li>
             </ul>
         </div>
 
         <div class="credential-card">
             <h3>⚙️ Current Work</h3>
             <ul>
-                <li>Modernizing 25-year defense systems for AI/AO</li>
+                <li>Corporate America AI Recovery now</li>
+                <li>AI/AO modernizing defense systems</li>
                 <li>3x velocity improvements in production</li>
-                <li>80% reduction in deployment failures</li>
-                <li>Built battlefield simulation systems (US DoD, 2000-2005)</li>
-                <li>Still writes code daily</li>
+                <li>80%+ reduction in deployment failures</li>
+                <li>Built battlefield simulation systems<br> (US DoD, 2000-2005)</li>
+                <li>Still designs & writes code daily</li>
             </ul>
         </div>
 
         <div class="credential-card">
             <h3>🎖️ Background</h3>
             <ul>
-                <li><strong>US Army Engineer</strong> → Fortune 500 Architect</li>
+                <li><strong>US Army Engineer</strong> <br>→ Tech Startup Founder <br>→ Fortune 500 Architect</li>
                 <li>30+ years hands-on engineering</li>
-                <li>Domain-Driven Design specialist</li>
-                <li>EventStorming facilitator</li>
-                <li>Founded <a href="https://www.asei.systems" style="color: #58a6ff;">Advanced Software Enterprises</a> 2017</li>
+                <li>50+ large distributed systems made</li>
+                <li>Domain-Driven Design player-coach</li>
+                <li>EventStorming veteran practitioner</li>
+                <li>Founded <a href="https://www.asei.systems" style="color: #58a6ff;">Advanced Software Enterprises</a></li>
             </ul>
         </div>
     </div>
@@ -385,17 +393,17 @@
         <div class="recovery-grid">
             <div class="recovery-item">
                 <h4>$997 Diagnostic</h4>
-                <p>Find out exactly why your AI failed in 48 hours. 28-point assessment + executive briefing.</p>
+                <p>Find out exactly why your AI failed<br>in 2 (two) business days.<br>28-point assessment + executive briefing.</p>
             </div>
 
             <div class="recovery-item">
                 <h4>$15K-$25K Assessment</h4>
-                <p>Complete architectural discovery. 2-3 weeks. Everything needed to fix it.</p>
+                <p>Complete architectural discovery.<br>2-3 weeks.<br>Everything needed to fix it.</p>
             </div>
 
             <div class="recovery-item">
                 <h4>$50K-$350K Recovery</h4>
-                <p>We execute the fix. 8-12 weeks. Your AI works in production.</p>
+                <p>We execute the fix.<br>8-12 weeks.<br>Your AI works in production.</p>
             </div>
         </div>
 
@@ -406,13 +414,18 @@
     </div>
 
     <div class="quote">
-        "Architecture is trust. Code is conversation. Velocity comes from clarity."
-        <div style="margin-top: 10px; font-size: 0.8em;">— Vadim Kuhay</div>
+        "Architecture is trust.<br>
+        Code is conversation.<br>
+        Velocity comes from clarity."
+        <div style="margin-top: 10px; font-size: 0.8em;">
+            — Vadim Kuhay
+        </div>
     </div>
 
     <div class="tech-stack">
         <h3>Technical Mastery</h3>
         <div class="tech-tags">
+            <span class="tech-tag">Systems Engineering</span>
             <span class="tech-tag">Kotlin</span>
             <span class="tech-tag">Java</span>
             <span class="tech-tag">Python</span>
@@ -420,7 +433,7 @@
             <span class="tech-tag">Domain-Driven Design</span>
             <span class="tech-tag">EventStorming</span>
             <span class="tech-tag">Microservices</span>
-            <span class="tech-tag">Event-Driven (Kafka)</span>
+            <span class="tech-tag">Event-Driven Architecture</span>
             <span class="tech-tag">CQRS</span>
             <span class="tech-tag">Spring Boot</span>
             <span class="tech-tag">Kubernetes</span>
@@ -429,7 +442,7 @@
             <span class="tech-tag">Azure</span>
             <span class="tech-tag">TensorFlow</span>
             <span class="tech-tag">PyTorch</span>
-            <span class="tech-tag">30+ years hands-on</span>
+            <span class="tech-tag">30+ years hands-on soup-to-nuts</span>
         </div>
     </div>
 
