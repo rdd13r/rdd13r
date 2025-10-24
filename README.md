@@ -10,7 +10,7 @@
 
 **August 2025:** MIT proved me right at 95%.
 
-While vendors sold magic, I wrote about chaos. 
+While vendors sold magic, I wrote about _**recovery**_. 
 [Read the original prediction →](https://mimis-gildi.github.io/riddle-me-this/adventures/2023/07/05/integrated-ai-evolution.html)
 
 ## What I Do
